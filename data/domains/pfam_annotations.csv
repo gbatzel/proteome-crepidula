@@ -1,0 +1,1725 @@
+﻿transcript,domain,target name,E-value
+TRINITY_DN59156_c0_g1_i1.p1,Cysteine-rich secretory protein family,CAP,1.10E-14
+TRINITY_DN59156_c0_g1_i1.p2,Respiratory growth transcriptional regulator,RSF,0.0052
+TRINITY_DN95273_c0_g1_i1.p1,"NADH-ubiquinone/plastoquinone oxidoreductase, chain 3",Oxidored_q4,0.15
+TRINITY_DN95273_c0_g1_i1.p1,"NADH-ubiquinone/plastoquinone oxidoreductase, chain 3",Oxidored_q4,0.15
+TRINITY_DN95273_c0_g1_i1.p2,Borna disease virus G protein,BDV_G,0.023
+TRINITY_DN69769_c0_g1_i1.p1,BTB/POZ domain,BTB_2,3.30E-19
+TRINITY_DN69769_c0_g1_i1.p1,BTB/POZ domain,BTB_2,3.30E-19
+TRINITY_DN69769_c0_g1_i1.p1,BTB/POZ domain,BTB_3,0.02
+TRINITY_DN69769_c0_g1_i1.p1,BTB/POZ domain,BTB_3,0.02
+TRINITY_DN69769_c0_g1_i1.p1,"Exonuclease VII, large subunit",Exonuc_VII_L,0.066
+TRINITY_DN69769_c0_g1_i1.p1,Mitochondrial calcium uniporter,MCU,0.066
+TRINITY_DN69769_c0_g1_i1.p1,Domain of unknown function (DUF3552),DUF3552,0.084
+TRINITY_DN69769_c0_g1_i1.p1,Domain of unknown function (DUF4200),DUF4200,0.31
+TRINITY_DN69769_c0_g1_i1.p1,Autophagy protein Apg6,APG6,0.34
+TRINITY_DN69769_c0_g1_i1.p1,Flagellar Assembly Protein A,FapA,1.3
+TRINITY_DN69769_c0_g1_i1.p1,Adenosine/AMP deaminase N-terminal,A_deaminase_N,1.6
+TRINITY_DN84670_c0_g1_i1.p1,Major prion protein bPrPp - N terminal,Prion_bPrPp,0.025
+TRINITY_DN75744_c0_g2_i1.p3,Transmembrane protein 126,TMEM126,0.6
+TRINITY_DN75744_c0_g2_i1.p3,Transmembrane protein 126,TMEM126,0.6
+TRINITY_DN54113_c0_g1_i1.p2,Filoviridae VP35,Filo_VP35,0.032
+TRINITY_DN164371_c0_g1_i4.p1,Strictosidine synthase,Str_synth,5.00E-13
+TRINITY_DN164371_c0_g1_i4.p1,Strictosidine synthase,Str_synth,5.00E-13
+TRINITY_DN164371_c0_g1_i4.p1,SMP-30/Gluconolaconase/LRE-like region,SGL,1.20E-10
+TRINITY_DN164371_c0_g1_i4.p1,SMP-30/Gluconolaconase/LRE-like region,SGL,1.20E-10
+TRINITY_DN164371_c0_g1_i4.p1,Arylesterase,Arylesterase,0.00036
+TRINITY_DN164371_c0_g1_i4.p1,Arylesterase,Arylesterase,0.00036
+TRINITY_DN164371_c0_g1_i4.p1,PQQ-like domain,PQQ_3,0.037
+TRINITY_DN164371_c0_g1_i4.p1,PQQ-like domain,PQQ_3,0.037
+TRINITY_DN164371_c0_g1_i4.p1,PQQ-like domain,PQQ_3,0.037
+TRINITY_DN164371_c0_g1_i4.p1,PQQ-like domain,PQQ_3,0.037
+TRINITY_DN164371_c0_g1_i4.p1,MHC-I family domain,MHC_I_3,0.14
+TRINITY_DN165314_c1_g3_i1.p1,MG2 domain,A2M_N,5.80E-18
+TRINITY_DN165314_c1_g3_i1.p1,MG2 domain,A2M_N,5.80E-18
+TRINITY_DN165314_c1_g3_i1.p1,MG2 domain,A2M_N,5.80E-18
+TRINITY_DN165314_c1_g3_i1.p1,Glycosyl hydrolase family 66,Glyco_hydro_66,0.07
+TRINITY_DN165314_c1_g3_i1.p1,Trans-sialidase of Trypanosoma hydrophobic C-terminal,Tr-sialidase_C,0.17
+TRINITY_DN165394_c0_g2_i1.p1,F5/8 type C domain,F5_F8_type_C,1.70E-23
+TRINITY_DN165394_c0_g2_i1.p1,F5/8 type C domain,F5_F8_type_C,1.70E-23
+TRINITY_DN165394_c0_g2_i1.p1,F5/8 type C domain,F5_F8_type_C,1.70E-23
+TRINITY_DN165394_c0_g2_i1.p1,HAP1 N-terminal conserved region,HAP1_N,0.00018
+TRINITY_DN165394_c0_g2_i1.p1,Apolipoprotein A1/A4/E domain,Apolipoprotein,0.015
+TRINITY_DN165394_c0_g2_i1.p1,Domain of unknown function (DUF4164),DUF4164,0.027
+TRINITY_DN165394_c0_g2_i1.p1,Domain of unknown function (DUF4164),DUF4164,0.027
+TRINITY_DN165394_c0_g2_i1.p1,Low-density lipoprotein receptor repeat class B,Ldl_recept_b,0.028
+TRINITY_DN165394_c0_g2_i1.p1,Low-density lipoprotein receptor repeat class B,Ldl_recept_b,0.028
+TRINITY_DN165394_c0_g2_i1.p1,Low-density lipoprotein receptor repeat class B,Ldl_recept_b,0.028
+TRINITY_DN165394_c0_g2_i1.p1,NHL repeat,NHL,0.037
+TRINITY_DN165394_c0_g2_i1.p1,NHL repeat,NHL,0.037
+TRINITY_DN165394_c0_g2_i1.p1,NHL repeat,NHL,0.037
+TRINITY_DN165394_c0_g2_i1.p1,NHL repeat,NHL,0.037
+TRINITY_DN165394_c0_g2_i1.p1,IncA protein,IncA,0.047
+TRINITY_DN165394_c0_g2_i1.p1,IncA protein,IncA,0.047
+TRINITY_DN165394_c0_g2_i1.p1,Nnf1,Nnf1,0.053
+TRINITY_DN165394_c0_g2_i1.p1,Nucleopolyhedrovirus P10 protein,NPV_P10,0.061
+TRINITY_DN165394_c0_g2_i1.p1,Nucleopolyhedrovirus P10 protein,NPV_P10,0.061
+TRINITY_DN165394_c0_g2_i1.p1,Nucleopolyhedrovirus P10 protein,NPV_P10,0.061
+TRINITY_DN165394_c0_g2_i1.p1,"Hepatic lectin, N-terminal domain",Lectin_N,0.079
+TRINITY_DN165394_c0_g2_i1.p1,"Lactonase, 7-bladed beta-propeller",Lactonase,0.11
+TRINITY_DN165394_c0_g2_i1.p1,"Lactonase, 7-bladed beta-propeller",Lactonase,0.11
+TRINITY_DN165394_c0_g2_i1.p1,Septum formation initiator,DivIC,0.11
+TRINITY_DN165394_c0_g2_i1.p1,Septum formation initiator,DivIC,0.11
+TRINITY_DN165394_c0_g2_i1.p1,Septum formation initiator,DivIC,0.11
+TRINITY_DN165394_c0_g2_i1.p1,Two component regulator propeller,Reg_prop,0.12
+TRINITY_DN165394_c0_g2_i1.p1,Two component regulator propeller,Reg_prop,0.12
+TRINITY_DN165394_c0_g2_i1.p1,Two component regulator propeller,Reg_prop,0.12
+TRINITY_DN165394_c0_g2_i1.p1,SWI5-dependent HO expression protein 3,SHE3,0.12
+TRINITY_DN165394_c0_g2_i1.p1,CASP C terminal,CASP_C,0.2
+TRINITY_DN165394_c0_g2_i1.p1,GIT coiled-coil Rho guanine nucleotide exchange factor,GIT_CC,0.21
+TRINITY_DN165394_c0_g2_i1.p1,GIT coiled-coil Rho guanine nucleotide exchange factor,GIT_CC,0.21
+TRINITY_DN165394_c0_g2_i1.p1,bZIP transcription factor,bZIP_1,0.35
+TRINITY_DN165394_c0_g2_i1.p1,bZIP transcription factor,bZIP_1,0.35
+TRINITY_DN165394_c0_g2_i1.p1,bZIP transcription factor,bZIP_1,0.35
+TRINITY_DN165394_c0_g2_i1.p1,C-terminal leucine zipper domain of cyclic nucleotide-gated channels,CLZ,0.39
+TRINITY_DN165394_c0_g2_i1.p1,C-terminal leucine zipper domain of cyclic nucleotide-gated channels,CLZ,0.39
+TRINITY_DN165394_c0_g2_i1.p1,Outer membrane protein (OmpH-like),OmpH,0.43
+TRINITY_DN165394_c0_g2_i1.p1,TPR/MLP1/MLP2-like protein,TPR_MLP1_2,0.62
+TRINITY_DN165394_c0_g2_i1.p1,TPR/MLP1/MLP2-like protein,TPR_MLP1_2,0.62
+TRINITY_DN165394_c0_g2_i1.p1,Homeobox associated leucine zipper,HALZ,0.69
+TRINITY_DN165394_c0_g2_i1.p1,Homeobox associated leucine zipper,HALZ,0.69
+TRINITY_DN165394_c0_g2_i1.p1,Leucine-rich repeats of kinetochore protein Cenp-F/LEK1,CENP-F_leu_zip,0.85
+TRINITY_DN165394_c0_g2_i1.p1,Leucine-rich repeats of kinetochore protein Cenp-F/LEK1,CENP-F_leu_zip,0.85
+TRINITY_DN165394_c0_g2_i1.p1,Cell division protein ZapB,ZapB,1.5
+TRINITY_DN165394_c0_g2_i1.p1,Protein of unknown function DUF16,DUF16,1.6
+TRINITY_DN165394_c0_g2_i1.p1,Protein of unknown function DUF16,DUF16,1.6
+TRINITY_DN165394_c0_g2_i1.p1,PQQ-like domain,PQQ_3,2.8
+TRINITY_DN165394_c0_g2_i1.p1,PQQ-like domain,PQQ_3,2.8
+TRINITY_DN165394_c0_g2_i1.p1,"Baculovirus polyhedron envelope protein, PEP, C terminus",Baculo_PEP_C,8.7
+TRINITY_DN165394_c0_g2_i1.p1,"Baculovirus polyhedron envelope protein, PEP, C terminus",Baculo_PEP_C,8.7
+TRINITY_DN165394_c0_g2_i1.p1,"Baculovirus polyhedron envelope protein, PEP, C terminus",Baculo_PEP_C,8.7
+TRINITY_DN165394_c0_g2_i1.p1,HOOK protein,HOOK,9.2
+TRINITY_DN165394_c0_g2_i1.p1,HOOK protein,HOOK,9.2
+TRINITY_DN165366_c1_g1_i1.p1,Chondroitin proteoglycan 4,CPG4,1.1
+TRINITY_DN165366_c1_g1_i1.p1,Chondroitin proteoglycan 4,CPG4,1.1
+TRINITY_DN165366_c1_g1_i1.p1,Chondroitin proteoglycan 4,CPG4,1.1
+TRINITY_DN165366_c1_g1_i1.p1,Scorpion toxin-like domain,Toxin_3,1.3
+TRINITY_DN165366_c1_g1_i1.p1,Scorpion toxin-like domain,Toxin_3,1.3
+TRINITY_DN165366_c1_g1_i1.p1,Scorpion toxin-like domain,Toxin_3,1.3
+TRINITY_DN165366_c1_g1_i1.p1,Scorpion toxin-like domain,Toxin_3,1.3
+TRINITY_DN159734_c1_g1_i1.p1,Protein kinase domain,Pkinase,1.80E-41
+TRINITY_DN159734_c1_g1_i1.p1,Protein kinase domain,Pkinase,1.80E-41
+TRINITY_DN159734_c1_g1_i1.p1,Protein tyrosine kinase,Pkinase_Tyr,1.00E-23
+TRINITY_DN159734_c1_g1_i1.p1,AT-hook-containing transcription factor,AKNA,0.00037
+TRINITY_DN159734_c1_g1_i1.p1,AT-hook-containing transcription factor,AKNA,0.00037
+TRINITY_DN159734_c1_g1_i1.p1,AT-hook-containing transcription factor,AKNA,0.00037
+TRINITY_DN159734_c1_g1_i1.p1,AT-hook-containing transcription factor,AKNA,0.00037
+TRINITY_DN159734_c1_g1_i1.p1,Bacterial protein of unknown function (DUF948),DUF948,0.0085
+TRINITY_DN159734_c1_g1_i1.p1,Bacterial protein of unknown function (DUF948),DUF948,0.0085
+TRINITY_DN159734_c1_g1_i1.p1,Bacterial protein of unknown function (DUF948),DUF948,0.0085
+TRINITY_DN159734_c1_g1_i1.p1,Phosphotransferase enzyme family,APH,0.068
+TRINITY_DN159734_c1_g1_i1.p1,Phosphotransferase enzyme family,APH,0.068
+TRINITY_DN159734_c1_g1_i1.p1,Phosphotransferase enzyme family,APH,0.068
+TRINITY_DN159734_c1_g1_i1.p1,Prominin,Prominin,0.56
+TRINITY_DN159734_c1_g1_i1.p1,Domain of unknown function (DUF4407),DUF4407,1.4
+TRINITY_DN159734_c1_g1_i1.p1,Autophagy protein Apg6,APG6,1.5
+TRINITY_DN159734_c1_g1_i1.p1,Autophagy protein Apg6,APG6,1.5
+TRINITY_DN159734_c1_g1_i1.p1,IncA protein,IncA,2.5
+TRINITY_DN159734_c1_g1_i1.p1,IncA protein,IncA,2.5
+TRINITY_DN159734_c1_g1_i1.p1,IncA protein,IncA,2.5
+TRINITY_DN159734_c1_g1_i1.p1,Flagellar hook-associated protein 2 N-terminus,FliD_N,2.5
+TRINITY_DN159734_c1_g1_i1.p1,Flagellar hook-associated protein 2 N-terminus,FliD_N,2.5
+TRINITY_DN159734_c1_g1_i1.p1,Flagellar hook-associated protein 2 N-terminus,FliD_N,2.5
+TRINITY_DN159734_c1_g1_i1.p1,Occludin homology domain,Occludin_ELL,9.3
+TRINITY_DN159734_c1_g1_i1.p1,Occludin homology domain,Occludin_ELL,9.3
+TRINITY_DN159734_c1_g1_i1.p1,Occludin homology domain,Occludin_ELL,9.3
+TRINITY_DN166505_c0_g1_i2.p1,Myotubularin protein,SBF2,1.30E-95
+TRINITY_DN166505_c0_g1_i2.p1,Myotubularin protein,SBF2,1.30E-95
+TRINITY_DN166505_c0_g1_i2.p1,DENN (AEX-3) domain,DENN,2.30E-50
+TRINITY_DN166505_c0_g1_i2.p1,DENN (AEX-3) domain,DENN,2.30E-50
+TRINITY_DN166505_c0_g1_i2.p1,Myotubularin-like phosphatase domain,Myotub-related,4.50E-34
+TRINITY_DN166505_c0_g1_i2.p1,GRAM domain,GRAM,1.80E-15
+TRINITY_DN166505_c0_g1_i2.p1,uDENN domain,uDENN,1.30E-11
+TRINITY_DN166505_c0_g1_i2.p1,uDENN domain,uDENN,1.30E-11
+TRINITY_DN166505_c0_g1_i2.p1,dDENN domain,dDENN,0.00035
+TRINITY_DN166505_c0_g1_i2.p2,PH domain,PH,3.90E-15
+TRINITY_DN166505_c0_g1_i2.p2,Phorbol esters/diacylglycerol binding domain (C1 domain),C1_1,1.60E-09
+TRINITY_DN166505_c0_g1_i2.p2,Pleckstrin homology domain,PH_11,4.40E-06
+TRINITY_DN166505_c0_g1_i2.p2,Pleckstrin homology domain,PH_8,0.00027
+TRINITY_DN166505_c0_g1_i2.p2,Pleckstrin homology domain,PH_12,0.042
+TRINITY_DN166505_c0_g1_i2.p2,Putative zinc-RING and/or ribbon,zf-RING_9,0.22
+TRINITY_DN166541_c3_g8_i3.p1,"Lytic polysaccharide mono-oxygenase, cellulose-degrading",LPMO_10,3.30E-34
+TRINITY_DN166541_c3_g8_i3.p1,Nodulation protein NolV,NolV,0.14
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_7,1.60E-24
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_7,1.60E-24
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_7,1.60E-24
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_7,1.60E-24
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_1,2.10E-23
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain,EF-hand_6,1.40E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF hand,EF-hand_5,6.90E-20
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,EF-hand domain pair,EF-hand_8,2.30E-12
+TRINITY_DN166566_c1_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,7.50E-06
+TRINITY_DN166566_c1_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,7.50E-06
+TRINITY_DN166566_c1_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,7.50E-06
+TRINITY_DN166566_c1_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,7.50E-06
+TRINITY_DN166566_c1_g1_i1.p1,Domain of unknown function (DUF366),DUF366,0.15
+TRINITY_DN166566_c1_g1_i1.p1,Domain of unknown function (DUF366),DUF366,0.15
+TRINITY_DN166566_c1_g1_i1.p1,Domain of unknown function (DUF366),DUF366,0.15
+TRINITY_DN166566_c1_g1_i1.p1,Caleosin related protein,Caleosin,0.48
+TRINITY_DN166566_c1_g1_i1.p1,Caleosin related protein,Caleosin,0.48
+TRINITY_DN166566_c1_g1_i1.p1,Caleosin related protein,Caleosin,0.48
+TRINITY_DN166566_c1_g1_i1.p1,"Erythroid krueppel-like transcription factor, transactivation 2",EKLF_TAD2,8.5
+TRINITY_DN166566_c1_g1_i1.p1,"Erythroid krueppel-like transcription factor, transactivation 2",EKLF_TAD2,8.5
+TRINITY_DN166527_c0_g1_i1.p1,FKBP-type peptidyl-prolyl cis-trans isomerase,FKBP_C,2.40E-31
+TRINITY_DN166527_c0_g1_i1.p1,FKBP-type peptidyl-prolyl cis-trans isomerase,FKBP_C,2.40E-31
+TRINITY_DN166527_c0_g1_i1.p1,EF hand,EF-hand_1,2.40E-09
+TRINITY_DN166527_c0_g1_i1.p1,EF hand,EF-hand_1,2.40E-09
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain pair,EF-hand_7,6.40E-09
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain pair,EF-hand_7,6.40E-09
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain,EF-hand_6,2.50E-07
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain,EF-hand_6,2.50E-07
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain pair,EF-hand_8,1.30E-05
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain pair,EF-hand_8,1.30E-05
+TRINITY_DN166527_c0_g1_i1.p1,EF-hand domain pair,EF-hand_8,1.30E-05
+TRINITY_DN166527_c0_g1_i1.p1,EF hand,EF-hand_5,0.00016
+TRINITY_DN166527_c0_g1_i1.p1,EF hand,EF-hand_5,0.00016
+TRINITY_DN166527_c0_g1_i1.p1,EF hand,EF-hand_10,0.0094
+TRINITY_DN166527_c0_g1_i1.p1,EF hand,EF-hand_10,0.0094
+TRINITY_DN166527_c0_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.09
+TRINITY_DN166527_c0_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.09
+TRINITY_DN165536_c5_g3_i3.p2,Actin,Actin,7.40E-126
+TRINITY_DN166970_c1_g5_i2.p1,Coiled-coil domain-containing protein 124,Ccdc124,0.017
+TRINITY_DN166970_c1_g5_i2.p1,Coiled-coil domain-containing protein 124,Ccdc124,0.017
+TRINITY_DN166970_c1_g5_i2.p1,Replication protein P,Phage_lambda_P,0.096
+TRINITY_DN166970_c1_g5_i2.p1,Domain of unknown function (DUF4351),DUF4351,4
+TRINITY_DN166970_c1_g5_i2.p1,Domain of unknown function (DUF4351),DUF4351,4
+TRINITY_DN166970_c1_g5_i2.p1,Domain of unknown function (DUF4351),DUF4351,4
+TRINITY_DN166970_c1_g5_i2.p1,Domain of unknown function (DUF4351),DUF4351,4
+TRINITY_DN166970_c1_g5_i2.p1,Domain of unknown function (DUF4351),DUF4351,4
+TRINITY_DN166950_c2_g1_i1.p1,"MAM domain, meprin/A5/mu",MAM,3.00E-87
+TRINITY_DN166950_c2_g1_i1.p1,"MAM domain, meprin/A5/mu",MAM,3.00E-87
+TRINITY_DN166950_c2_g1_i1.p1,"MAM domain, meprin/A5/mu",MAM,3.00E-87
+TRINITY_DN166950_c2_g1_i1.p1,"MAM domain, meprin/A5/mu",MAM,3.00E-87
+TRINITY_DN166950_c2_g1_i1.p1,CUB domain,CUB,3.40E-21
+TRINITY_DN166950_c2_g1_i1.p1,F5/8 type C domain,F5_F8_type_C,1.40E-08
+TRINITY_DN166950_c2_g1_i1.p1,F5/8 type C domain,F5_F8_type_C,1.40E-08
+TRINITY_DN166950_c2_g1_i1.p1,F5/8 type C domain,F5_F8_type_C,1.40E-08
+TRINITY_DN166950_c2_g1_i1.p1,CUB-like domain,CUB_2,0.00018
+TRINITY_DN147950_c0_g1_i1.p1,"Lytic polysaccharide mono-oxygenase, cellulose-degrading",LPMO_10,0.00064
+TRINITY_DN147950_c0_g1_i1.p1,"Lytic polysaccharide mono-oxygenase, cellulose-degrading",LPMO_10,0.00064
+TRINITY_DN157347_c0_g1_i2.p1,Peptidase family M13,Peptidase_M13_N,4.10E-101
+TRINITY_DN157347_c0_g1_i2.p1,Peptidase family M13,Peptidase_M13,5.60E-63
+TRINITY_DN157347_c0_g1_i2.p1,Peptidase family M13,Peptidase_M13,5.60E-63
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain pair,EF-hand_7,2.50E-14
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain pair,EF-hand_7,2.50E-14
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_1,1.50E-12
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_1,1.50E-12
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_1,1.50E-12
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_1,1.50E-12
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain,EF-hand_6,2.10E-10
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain,EF-hand_6,2.10E-10
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain,EF-hand_6,2.10E-10
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain,EF-hand_6,2.10E-10
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-08
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-08
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-08
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-08
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_5,7.60E-06
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_5,7.60E-06
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_5,7.60E-06
+TRINITY_DN157314_c3_g3_i1.p1,EF hand,EF-hand_5,7.60E-06
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain,EF-hand_9,0.0004
+TRINITY_DN157314_c3_g3_i1.p1,EF-hand domain,EF-hand_9,0.0004
+TRINITY_DN157314_c3_g3_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.0029
+TRINITY_DN157314_c3_g3_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.0029
+TRINITY_DN157314_c3_g3_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,0.11
+TRINITY_DN157314_c3_g3_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,0.11
+TRINITY_DN157672_c1_g2_i1.p1,Sporulation protein YtfJ (Spore_YtfJ),Spore_YtfJ,1.9
+TRINITY_DN157672_c1_g2_i1.p2,Protein of unknown function (DUF1510),DUF1510,5.2
+TRINITY_DN133163_c0_g1_i1.p1,CUB domain,CUB,6.70E-45
+TRINITY_DN133163_c0_g1_i1.p1,CUB domain,CUB,6.70E-45
+TRINITY_DN133163_c0_g1_i1.p1,CUB-like domain,CUB_2,4.60E-05
+TRINITY_DN133163_c0_g1_i1.p1,CUB-like domain,CUB_2,4.60E-05
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain pair,EF-hand_7,6.50E-23
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain pair,EF-hand_7,6.50E-23
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_1,4.30E-22
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_1,4.30E-22
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_1,4.30E-22
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_1,4.30E-22
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain,EF-hand_6,6.90E-18
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain,EF-hand_6,6.90E-18
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain,EF-hand_6,6.90E-18
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain,EF-hand_6,6.90E-18
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,4.20E-15
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,4.20E-15
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,4.20E-15
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_5,2.70E-06
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_5,2.70E-06
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_5,2.70E-06
+TRINITY_DN162318_c0_g3_i1.p1,EF hand,EF-hand_5,2.70E-06
+TRINITY_DN162318_c0_g3_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,1.30E-05
+TRINITY_DN162318_c0_g3_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,1.30E-05
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain,EF-hand_9,3.50E-05
+TRINITY_DN162318_c0_g3_i1.p1,EF-hand domain,EF-hand_9,3.50E-05
+TRINITY_DN162318_c0_g3_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,0.0012
+TRINITY_DN162318_c0_g3_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,0.0012
+TRINITY_DN162318_c0_g3_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,0.0012
+TRINITY_DN162318_c0_g3_i1.p1,Retrotransposon gag protein,Retrotrans_gag,0.04
+TRINITY_DN162318_c0_g3_i1.p1,Retrotransposon gag protein,Retrotrans_gag,0.04
+TRINITY_DN162318_c0_g3_i1.p1,Protein of unknown function (DUF1296),DUF1296,0.046
+TRINITY_DN162318_c0_g3_i1.p1,Protein of unknown function (DUF1456),DUF1456,0.26
+TRINITY_DN162318_c0_g3_i1.p1,Protein of unknown function (DUF1456),DUF1456,0.26
+TRINITY_DN163690_c3_g1_i6.p1,Fibronectin type III domain,fn3,5.40E-06
+TRINITY_DN163690_c3_g1_i6.p1,Fibronectin type III domain,fn3,5.40E-06
+TRINITY_DN163690_c3_g1_i6.p1,Fibronectin type III domain,fn3,5.40E-06
+TRINITY_DN163690_c3_g1_i6.p1,"Interferon-alpha/beta receptor, fibronectin type III",Interfer-bind,0.00057
+TRINITY_DN163690_c3_g1_i6.p1,Uncharacterised conserved protein (DUF2369),DUF2369,0.025
+TRINITY_DN163690_c3_g1_i6.p1,Uncharacterised conserved protein (DUF2369),DUF2369,0.025
+TRINITY_DN163690_c3_g1_i6.p1,Y_Y_Y domain,Y_Y_Y,0.056
+TRINITY_DN163690_c3_g1_i6.p1,Tissue factor,Tissue_fac,0.63
+TRINITY_DN163690_c3_g1_i6.p1,Tissue factor,Tissue_fac,0.63
+TRINITY_DN163635_c0_g1_i2.p1,Spc7 kinetochore protein,Spc7,5.60E-05
+TRINITY_DN163635_c0_g1_i2.p1,Spc7 kinetochore protein,Spc7,5.60E-05
+TRINITY_DN163635_c0_g1_i2.p1,IncA protein,IncA,0.00055
+TRINITY_DN163635_c0_g1_i2.p1,IncA protein,IncA,0.00055
+TRINITY_DN163635_c0_g1_i2.p1,Golgin subfamily A member 5,Golgin_A5,0.0067
+TRINITY_DN163635_c0_g1_i2.p1,Golgin subfamily A member 5,Golgin_A5,0.0067
+TRINITY_DN163635_c0_g1_i2.p1,Bone marrow stromal antigen 2,BST2,0.01
+TRINITY_DN163635_c0_g1_i2.p1,Bone marrow stromal antigen 2,BST2,0.01
+TRINITY_DN163635_c0_g1_i2.p1,Bone marrow stromal antigen 2,BST2,0.01
+TRINITY_DN163635_c0_g1_i2.p1,Reovirus sigma C capsid protein,Reo_sigmaC,0.051
+TRINITY_DN163635_c0_g1_i2.p1,Prominin,Prominin,0.052
+TRINITY_DN163635_c0_g1_i2.p1,Cobalamin adenosyltransferase,Cob_adeno_trans,0.094
+TRINITY_DN163635_c0_g1_i2.p1,SecD export protein N-terminal TM region,SecD-TM1,0.44
+TRINITY_DN163635_c0_g1_i2.p1,SecD export protein N-terminal TM region,SecD-TM1,0.44
+TRINITY_DN163635_c0_g1_i2.p1,Bacterial protein of unknown function (DUF948),DUF948,0.5
+TRINITY_DN163635_c0_g1_i2.p1,Bacterial protein of unknown function (DUF948),DUF948,0.5
+TRINITY_DN163635_c0_g1_i2.p1,Protein of unknown function (DUF1664),DUF1664,0.59
+TRINITY_DN163635_c0_g1_i2.p1,Protein of unknown function (DUF1664),DUF1664,0.59
+TRINITY_DN163635_c0_g1_i2.p1,Vacuolar sorting 38 and autophagy-related subunit 14,Atg14,0.79
+TRINITY_DN163635_c0_g1_i2.p1,Vacuolar sorting 38 and autophagy-related subunit 14,Atg14,0.79
+TRINITY_DN163635_c0_g1_i2.p1,Sec34-like family,Sec34,1.3
+TRINITY_DN163635_c0_g1_i2.p1,Sec34-like family,Sec34,1.3
+TRINITY_DN163635_c0_g1_i2.p1,Proteins of 100 residues with WXG,WXG100,4.1
+TRINITY_DN163635_c0_g1_i2.p1,Proteins of 100 residues with WXG,WXG100,4.1
+TRINITY_DN163635_c0_g1_i2.p1,"COG (conserved oligomeric Golgi) complex component, COG2",COG2,4.2
+TRINITY_DN163635_c0_g1_i2.p1,SlyX,SlyX,4.6
+TRINITY_DN163635_c0_g1_i2.p1,SlyX,SlyX,4.6
+TRINITY_DN163635_c0_g1_i2.p1,Centromere protein H (CENP-H),CENP-H,8.3
+TRINITY_DN163635_c0_g1_i2.p1,Centromere protein H (CENP-H),CENP-H,8.3
+TRINITY_DN163635_c0_g1_i2.p1,Centromere protein H (CENP-H),CENP-H,8.3
+TRINITY_DN163635_c0_g1_i2.p1,TolA binding protein trimerisation,TolA_bind_tri,9.2
+TRINITY_DN163635_c0_g1_i2.p1,TolA binding protein trimerisation,TolA_bind_tri,9.2
+TRINITY_DN163635_c0_g1_i2.p2,Protein of unknown function (DUF3314),DUF3314,0.097
+TRINITY_DN159590_c2_g10_i1.p2,Protein of unknown function (DUF2946),DUF2946,0.018
+TRINITY_DN163877_c0_g3_i1.p1,Sporulation protein family 7,Spo7_2_N,0.039
+TRINITY_DN163873_c1_g1_i1.p1,Zona pellucida-like domain,Zona_pellucida,2.40E-09
+TRINITY_DN163873_c1_g1_i1.p1,EGF-like domain,EGF,0.027
+TRINITY_DN163873_c1_g1_i1.p1,EGF-like domain,EGF,0.027
+TRINITY_DN163873_c1_g1_i1.p1,EGF-like domain,EGF_2,0.17
+TRINITY_DN163873_c1_g1_i1.p1,EGF-like domain,EGF_2,0.17
+TRINITY_DN163873_c1_g1_i1.p1,Human growth factor-like EGF,hEGF,6.9
+TRINITY_DN163873_c1_g1_i1.p1,Human growth factor-like EGF,hEGF,6.9
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin domain,Cadherin,0
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Cadherin prodomain like,Cadherin_pro,4.20E-11
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Y_Y_Y domain,Y_Y_Y,0.18
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p1,Peptidase propeptide and YPEB domain,PepSY,0.58
+TRINITY_DN167701_c0_g2_i1.p4,Malate:quinone oxidoreductase (Mqo),Mqo,0.015
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0003
+TRINITY_DN167704_c1_g1_i2.p1,Cecropin family,Cecropin,0.07
+TRINITY_DN167704_c1_g1_i2.p12,SecD export protein N-terminal TM region,SecD-TM1,0.046
+TRINITY_DN167704_c1_g1_i2.p12,SecD export protein N-terminal TM region,SecD-TM1,0.046
+TRINITY_DN167704_c1_g1_i2.p17,Protein of unknown function (DUF4231),DUF4231,0.077
+TRINITY_DN167704_c1_g1_i2.p17,Protein of unknown function (DUF4231),DUF4231,0.077
+TRINITY_DN167704_c1_g1_i2.p18,zinc RING finger of MSL2,zf-RING_10,0.81
+TRINITY_DN167704_c1_g1_i2.p18,zinc RING finger of MSL2,zf-RING_10,0.81
+TRINITY_DN167704_c1_g1_i2.p19,Human growth factor-like EGF,hEGF,0.11
+TRINITY_DN167704_c1_g1_i2.p19,Human growth factor-like EGF,hEGF,0.11
+TRINITY_DN167704_c1_g1_i2.p30,Phospholipid-translocating P-type ATPase C-terminal,PhoLip_ATPase_C,0.053
+TRINITY_DN159208_c0_g2_i1.p1,"Lytic polysaccharide mono-oxygenase, cellulose-degrading",LPMO_10,1.20E-16
+TRINITY_DN157022_c0_g1_i2.p1,TMEM154 protein family,TMEM154,0.0006
+TRINITY_DN157022_c0_g1_i2.p1,TMEM154 protein family,TMEM154,0.0006
+TRINITY_DN157022_c0_g1_i2.p1,TMIE protein,TMIE,0.037
+TRINITY_DN157022_c0_g1_i2.p1,Predicted membrane protein (DUF2207),DUF2207,0.046
+TRINITY_DN157022_c0_g1_i2.p1,Protein of unknown function (DUF1180),DUF1180,0.74
+TRINITY_DN157022_c0_g1_i2.p1,Protein of unknown function (DUF1180),DUF1180,0.74
+TRINITY_DN157022_c0_g1_i2.p1,Wnt and FGF inhibitory regulator,Shisa,1.1
+TRINITY_DN157022_c0_g1_i2.p1,Wnt and FGF inhibitory regulator,Shisa,1.1
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_7,2.90E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_7,2.90E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_7,2.90E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_7,2.90E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_1,3.50E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_1,3.50E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_1,3.50E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_1,3.50E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_1,3.50E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_1,3.50E-19
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_5,4.40E-17
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_5,4.40E-17
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_5,4.40E-17
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_5,4.40E-17
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_5,4.40E-17
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain,EF-hand_6,7.20E-16
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain,EF-hand_6,7.20E-16
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain,EF-hand_6,7.20E-16
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain,EF-hand_6,7.20E-16
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain,EF-hand_6,7.20E-16
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain,EF-hand_6,7.20E-16
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_8,1.00E-07
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_8,1.00E-07
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_8,1.00E-07
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_8,1.00E-07
+TRINITY_DN161273_c3_g4_i2.p1,EF-hand domain pair,EF-hand_8,1.00E-07
+TRINITY_DN161273_c3_g4_i2.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.0019
+TRINITY_DN161273_c3_g4_i2.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.0019
+TRINITY_DN161273_c3_g4_i2.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.0019
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_10,0.013
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_10,0.013
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_10,0.013
+TRINITY_DN161273_c3_g4_i2.p1,EF hand,EF-hand_10,0.013
+TRINITY_DN161273_c3_g4_i2.p1,FAM176 family,FAM176,7
+TRINITY_DN161273_c3_g4_i2.p1,FAM176 family,FAM176,7
+TRINITY_DN161273_c3_g4_i2.p1,FAM176 family,FAM176,7
+TRINITY_DN161297_c0_g1_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,7.50E-06
+TRINITY_DN161297_c0_g1_i1.p1,Amnionless,Amnionless,0.0036
+TRINITY_DN161297_c0_g1_i1.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.04
+TRINITY_DN161297_c0_g1_i1.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.04
+TRINITY_DN161297_c0_g1_i1.p1,Endothelial cell-specific chemotaxis regulator,ECSCR,0.78
+TRINITY_DN161297_c0_g1_i1.p1,"Protein of unknown function, DUF485",DUF485,1.6
+TRINITY_DN161297_c0_g1_i1.p1,"Protein of unknown function, DUF485",DUF485,1.6
+TRINITY_DN161297_c0_g1_i1.p1,Syndecan domain,Syndecan,3.3
+TRINITY_DN161297_c0_g1_i1.p1,Domain of unknown function (DUF4690),DUF4690,3.9
+TRINITY_DN161297_c0_g1_i1.p1,Domain of unknown function (DUF4690),DUF4690,3.9
+TRINITY_DN161297_c0_g1_i1.p1,Domain of unknown function (DUF4690),DUF4690,3.9
+TRINITY_DN150011_c0_g2_i2.p1,TcfC Usher-like barrel domain,Usher_TcfC,0.088
+TRINITY_DN163530_c1_g1_i2.p1,Zinc-finger of C2H2 type,zf-met,0.0065
+TRINITY_DN163530_c1_g1_i2.p1,Zinc-finger of C2H2 type,zf-met,0.0065
+TRINITY_DN163530_c1_g1_i2.p1,C2H2-type zinc finger,zf-C2H2_4,0.021
+TRINITY_DN163530_c1_g1_i2.p1,C2H2-type zinc finger,zf-C2H2_4,0.021
+TRINITY_DN163530_c1_g1_i2.p1,C2H2-type zinc finger,zf-C2H2_4,0.021
+TRINITY_DN163530_c1_g1_i2.p1,C2H2-type zinc finger,zf-C2H2_4,0.021
+TRINITY_DN163530_c1_g1_i2.p1,C2H2-type zinc finger,zf-C2H2_4,0.021
+TRINITY_DN163530_c1_g1_i2.p1,Zinc-finger double-stranded RNA-binding,zf-C2H2_jaz,0.19
+TRINITY_DN163530_c1_g1_i2.p1,Zinc-finger double-stranded RNA-binding,zf-C2H2_jaz,0.19
+TRINITY_DN163530_c1_g1_i2.p1,"Zinc finger, C2H2 type",zf-C2H2,5.5
+TRINITY_DN163530_c1_g1_i2.p1,"Zinc finger, C2H2 type",zf-C2H2,5.5
+TRINITY_DN163530_c1_g1_i2.p1,"Zinc finger, C2H2 type",zf-C2H2,5.5
+TRINITY_DN163530_c1_g1_i2.p1,"Zinc finger, C2H2 type",zf-C2H2,5.5
+TRINITY_DN163530_c1_g1_i2.p1,"Zinc finger, C2H2 type",zf-C2H2,5.5
+TRINITY_DN163530_c1_g1_i2.p1,zinc-ribbons,zinc-ribbons_6,8.7
+TRINITY_DN163530_c1_g1_i2.p1,zinc-ribbons,zinc-ribbons_6,8.7
+TRINITY_DN163504_c0_g1_i1.p1,Ependymin,Ependymin,2.90E-05
+TRINITY_DN157587_c0_g1_i1.p2,Cytochrome oxidase maturation protein cbb3-type,FixS,3.1
+TRINITY_DN157574_c4_g1_i1.p1,FAM176 family,FAM176,0.0033
+TRINITY_DN157574_c4_g1_i1.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.025
+TRINITY_DN157574_c4_g1_i1.p1,DC-STAMP-like protein,DC_STAMP,0.19
+TRINITY_DN157574_c4_g1_i1.p1,TMEM154 protein family,TMEM154,0.29
+TRINITY_DN157574_c4_g1_i1.p1,TMEM154 protein family,TMEM154,0.29
+TRINITY_DN157574_c4_g1_i1.p1,Lipopolysaccharide assembly protein A domain,LapA_dom,0.58
+TRINITY_DN157574_c4_g1_i1.p1,Lipopolysaccharide assembly protein A domain,LapA_dom,0.58
+TRINITY_DN157568_c10_g1_i2.p1,Thioredoxin,Thioredoxin,3.40E-27
+TRINITY_DN157568_c10_g1_i2.p1,Thioredoxin-like domain,Thioredoxin_2,2.20E-08
+TRINITY_DN157568_c10_g1_i2.p1,Thioredoxin-like,Thioredoxin_8,6.60E-07
+TRINITY_DN157568_c10_g1_i2.p1,Thioredoxin-like,Thioredoxin_8,6.60E-07
+TRINITY_DN157568_c10_g1_i2.p1,Thioredoxin-like,Thioredoxin_7,6.30E-06
+TRINITY_DN157568_c10_g1_i2.p1,AhpC/TSA family,AhpC-TSA,9.90E-06
+TRINITY_DN157568_c10_g1_i2.p1,Mitosis protein DIM1,DIM1,0.00065
+TRINITY_DN157568_c10_g1_i2.p1,Thioredoxin,Thioredoxin_9,0.0019
+TRINITY_DN157568_c10_g1_i2.p1,Redoxin,Redoxin,0.03
+TRINITY_DN157568_c10_g1_i2.p1,Hydrogenase-1 expression protein HyaE,HyaE,0.075
+TRINITY_DN157568_c10_g1_i2.p1,"OST3 / OST6 family, transporter family",OST3_OST6,0.13
+TRINITY_DN151382_c3_g1_i1.p2,Dinitrogenase iron-molybdenum cofactor,Nitro_FeMo-Co,0.068
+TRINITY_DN151382_c3_g1_i1.p2,Dinitrogenase iron-molybdenum cofactor,Nitro_FeMo-Co,0.068
+TRINITY_DN151367_c0_g1_i2.p1,Domain of unknown function (DUF4430),DUF4430,1.10E-09
+TRINITY_DN151367_c0_g1_i2.p1,Domain of unknown function (DUF4430),DUF4430,1.10E-09
+TRINITY_DN151338_c1_g1_i1.p1,Galactose binding lectin domain,Gal_Lectin,1.10E-36
+TRINITY_DN151338_c1_g1_i1.p1,Galactose binding lectin domain,Gal_Lectin,1.10E-36
+TRINITY_DN151338_c1_g1_i1.p1,Domain of unknown function (DUF3395),DUF3395,0.017
+TRINITY_DN151338_c1_g1_i1.p1,Domain of unknown function (DUF3395),DUF3395,0.017
+TRINITY_DN151338_c1_g1_i1.p1,Consortin C-terminus,Consortin_C,0.14
+TRINITY_DN151338_c1_g1_i1.p1,Consortin C-terminus,Consortin_C,0.14
+TRINITY_DN151338_c1_g1_i1.p1,Bovine immunodeficiency virus surface protein (SU),BIV_Env,0.24
+TRINITY_DN159950_c0_g1_i2.p1,FAD binding domain of DNA photolyase,FAD_binding_7,1.30E-74
+TRINITY_DN159950_c0_g1_i2.p1,DNA photolyase,DNA_photolyase,5.40E-41
+TRINITY_DN137920_c0_g2_i1.p1,Amiloride-sensitive sodium channel,ASC,2.40E-16
+TRINITY_DN137920_c0_g2_i1.p1,Growth-arrest specific micro-tubule binding,GAS,0.027
+TRINITY_DN137920_c0_g2_i1.p1,Growth-arrest specific micro-tubule binding,GAS,0.027
+TRINITY_DN137920_c0_g2_i1.p1,Family of unknown function (DUF5344),DUF5344,0.06
+TRINITY_DN137920_c0_g2_i1.p1,Family of unknown function (DUF5344),DUF5344,0.06
+TRINITY_DN137920_c0_g2_i1.p1,"Ribosomal protein L9, C-terminal domain",Ribosomal_L9_C,0.19
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_2,2.10E-22
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_2,2.10E-22
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_2,2.10E-22
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_2,2.10E-22
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_2,2.10E-22
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_3,5.80E-18
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_3,5.80E-18
+TRINITY_DN134774_c0_g1_i1.p1,Multicopper oxidase,Cu-oxidase_3,5.80E-18
+TRINITY_DN134774_c0_g1_i1.p1,Protein of unknown function (DUF2914),DUF2914,0.0084
+TRINITY_DN134774_c0_g1_i1.p1,Protein of unknown function (DUF2914),DUF2914,0.0084
+TRINITY_DN164727_c0_g2_i1.p1,Sushi repeat (SCR repeat),Sushi,2.80E-12
+TRINITY_DN164727_c0_g2_i1.p1,Sushi repeat (SCR repeat),Sushi,2.80E-12
+TRINITY_DN164727_c0_g2_i1.p3,Acetyl xylan esterase (AXE1),AXE1,0.13
+TRINITY_DN164727_c0_g2_i1.p4,Domain of unknown function (DUF4010),DUF4010,0.048
+TRINITY_DN164727_c0_g2_i1.p5,S-layer homology domain,SLH,0.13
+TRINITY_DN155566_c3_g1_i4.p1,Domain of unknown function (DUF4430),DUF4430,3.10E-13
+TRINITY_DN144106_c0_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.0017
+TRINITY_DN144106_c0_g1_i1.p1,Tail tubular protein,Tube,0.1
+TRINITY_DN144106_c0_g1_i1.p1,Down syndrome cell adhesion molecule C terminal,Dscam_C,0.16
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_1,5.00E-22
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_1,5.00E-22
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_1,5.00E-22
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_1,5.00E-22
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain pair,EF-hand_7,2.00E-20
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain pair,EF-hand_7,2.00E-20
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain,EF-hand_6,1.80E-17
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain,EF-hand_6,1.80E-17
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain,EF-hand_6,1.80E-17
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain,EF-hand_6,1.80E-17
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_5,7.50E-14
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_5,7.50E-14
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_5,7.50E-14
+TRINITY_DN103717_c0_g2_i1.p1,EF hand,EF-hand_5,7.50E-14
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain pair,EF-hand_8,7.10E-10
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain pair,EF-hand_8,7.10E-10
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain pair,EF-hand_8,7.10E-10
+TRINITY_DN103717_c0_g2_i1.p1,EF-hand domain pair,EF-hand_8,7.10E-10
+TRINITY_DN103717_c0_g2_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,9.60E-06
+TRINITY_DN103717_c0_g2_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,9.60E-06
+TRINITY_DN103717_c0_g2_i1.p1,"Sigma-54 factor, core binding domain",Sigma54_CBD,0.04
+TRINITY_DN163963_c6_g2_i1.p1,EB module,EB,0.00055
+TRINITY_DN163963_c6_g2_i1.p1,EB module,EB,0.00055
+TRINITY_DN163963_c6_g2_i1.p1,EB module,EB,0.00055
+TRINITY_DN163963_c6_g2_i1.p1,EB module,EB,0.00055
+TRINITY_DN163963_c6_g2_i1.p1,EB module,EB,0.00055
+TRINITY_DN163963_c6_g2_i1.p1,MSP1 EGF domain 1,EGF_MSP1_1,0.017
+TRINITY_DN163963_c6_g2_i1.p1,MSP1 EGF domain 1,EGF_MSP1_1,0.017
+TRINITY_DN163963_c6_g2_i1.p1,MSP1 EGF domain 1,EGF_MSP1_1,0.017
+TRINITY_DN163963_c6_g2_i1.p1,MSP1 EGF domain 1,EGF_MSP1_1,0.017
+TRINITY_DN163963_c6_g2_i1.p1,MSP1 EGF domain 1,EGF_MSP1_1,0.017
+TRINITY_DN163910_c0_g2_i1.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,1.00E-09
+TRINITY_DN163910_c0_g2_i1.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,1.00E-09
+TRINITY_DN163910_c0_g2_i1.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,1.00E-09
+TRINITY_DN163910_c0_g2_i1.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,1.00E-09
+TRINITY_DN163910_c0_g2_i1.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,1.00E-09
+TRINITY_DN163910_c0_g2_i1.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,1.00E-09
+TRINITY_DN163910_c0_g2_i1.p2,Uncharacterized conserved protein (DUF2149),DUF2149,1.2
+TRINITY_DN163910_c0_g2_i1.p2,Uncharacterized conserved protein (DUF2149),DUF2149,1.2
+TRINITY_DN163936_c1_g1_i1.p1,GAGA binding protein-like family,GAGA_bind,0.13
+TRINITY_DN163936_c1_g1_i1.p1,Neurotransmitter-gated ion-channel transmembrane region,Neur_chan_memb,1.2
+TRINITY_DN158392_c0_g2_i1.p2,RecG N-terminal helical domain,RecG_N,0.035
+TRINITY_DN144559_c0_g1_i1.p1,EGF-like domain,EGF_2,0.0027
+TRINITY_DN144559_c0_g1_i1.p1,EGF-like domain,EGF_2,0.0027
+TRINITY_DN144559_c0_g1_i1.p1,Uncharacterized protein family (ORF7) DUF,DUF244,0.12
+TRINITY_DN144559_c0_g1_i1.p1,Laminin EGF domain,Laminin_EGF,0.21
+TRINITY_DN144559_c0_g1_i1.p1,Laminin EGF domain,Laminin_EGF,0.21
+TRINITY_DN103288_c0_g1_i1.p1,Glutathione S-transferase N-terminal domain,GST_N_4,0.15
+TRINITY_DN103288_c0_g1_i1.p1,Glutathione S-transferase N-terminal domain,GST_N_4,0.15
+TRINITY_DN157929_c0_g1_i2.p1,Strictosidine synthase,Str_synth,7.70E-16
+TRINITY_DN157929_c0_g1_i2.p1,Strictosidine synthase,Str_synth,7.70E-16
+TRINITY_DN157929_c0_g1_i2.p1,SMP-30/Gluconolaconase/LRE-like region,SGL,5.40E-12
+TRINITY_DN157929_c0_g1_i2.p1,SMP-30/Gluconolaconase/LRE-like region,SGL,5.40E-12
+TRINITY_DN157929_c0_g1_i2.p1,NHL repeat,NHL,0.01
+TRINITY_DN157929_c0_g1_i2.p1,NHL repeat,NHL,0.01
+TRINITY_DN157929_c0_g1_i2.p1,NHL repeat,NHL,0.01
+TRINITY_DN152792_c5_g1_i6.p1,Propeller,Hyd_WA,3.90E-27
+TRINITY_DN152792_c5_g1_i6.p1,Propeller,Hyd_WA,3.90E-27
+TRINITY_DN152792_c5_g1_i6.p1,Propeller,Hyd_WA,3.90E-27
+TRINITY_DN152792_c5_g1_i6.p1,Propeller,Hyd_WA,3.90E-27
+TRINITY_DN152792_c5_g1_i6.p1,Propeller,Hyd_WA,3.90E-27
+TRINITY_DN152792_c5_g1_i6.p1,Uncharacterized protein conserved in bacteria (DUF2255),DUF2255,0.45
+TRINITY_DN152792_c5_g1_i6.p1,Uncharacterized protein conserved in bacteria (DUF2255),DUF2255,0.45
+TRINITY_DN152792_c5_g1_i6.p1,Uncharacterized protein conserved in bacteria (DUF2255),DUF2255,0.45
+TRINITY_DN152792_c5_g1_i6.p1,Uncharacterized protein conserved in bacteria (DUF2255),DUF2255,0.45
+TRINITY_DN152792_c5_g1_i6.p1,Uncharacterized protein conserved in bacteria (DUF2255),DUF2255,0.45
+TRINITY_DN164848_c0_g1_i1.p1,EGF-like domain,EGF_2,0.041
+TRINITY_DN164848_c0_g1_i1.p1,EGF-like domain,EGF_2,0.041
+TRINITY_DN164811_c0_g3_i1.p1,BRO1-like domain,BRO1,0.13
+TRINITY_DN164811_c0_g3_i1.p1,BRO1-like domain,BRO1,0.13
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_3,6.70E-11
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_3,6.70E-11
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_3,6.70E-11
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin V-set domain,V-set,3.00E-08
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin V-set domain,V-set,3.00E-08
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin V-set domain,V-set,3.00E-08
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin I-set domain,I-set,4.90E-06
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin I-set domain,I-set,4.90E-06
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,ig,7.10E-06
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,ig,7.10E-06
+TRINITY_DN164895_c0_g1_i2.p1,CD47 immunoglobulin-like domain,V-set_CD47,0.0077
+TRINITY_DN164895_c0_g1_i2.p1,CD47 immunoglobulin-like domain,V-set_CD47,0.0077
+TRINITY_DN164895_c0_g1_i2.p1,Chitin binding Peritrophin-A domain,CBM_14,0.0083
+TRINITY_DN164895_c0_g1_i2.p1,Chitin binding Peritrophin-A domain,CBM_14,0.0083
+TRINITY_DN164895_c0_g1_i2.p1,Chitin binding Peritrophin-A domain,CBM_14,0.0083
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_2,0.096
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_2,0.096
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_2,0.096
+TRINITY_DN164895_c0_g1_i2.p1,Immunoglobulin domain,Ig_2,0.096
+TRINITY_DN164895_c0_g1_i2.p2,Autophagy protein 16 (ATG16),ATG16,0.86
+TRINITY_DN164895_c0_g1_i2.p2,Autophagy protein 16 (ATG16),ATG16,0.86
+TRINITY_DN164895_c0_g1_i2.p2,Protein of unknown function (DUF4551),DUF4551,2.2
+TRINITY_DN164895_c0_g1_i2.p5,Nuclear RNA-splicing-associated protein,SR-25,0.12
+TRINITY_DN166655_c1_g2_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,8.90E-29
+TRINITY_DN166655_c1_g2_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,8.90E-29
+TRINITY_DN166617_c1_g6_i2.p1,Glycosyl hydrolases family 18,Glyco_hydro_18,3.50E-98
+TRINITY_DN166617_c1_g6_i2.p1,Chitin binding Peritrophin-A domain,CBM_14,4.30E-16
+TRINITY_DN166617_c1_g6_i2.p1,Chitin binding Peritrophin-A domain,CBM_14,4.30E-16
+TRINITY_DN166617_c1_g6_i2.p1,NIL domain,NIL,0.16
+TRINITY_DN165940_c1_g4_i1.p1,Hsp70 protein,HSP70,2.90E-259
+TRINITY_DN165940_c1_g4_i1.p1,MreB/Mbl protein,MreB_Mbl,6.20E-16
+TRINITY_DN165940_c1_g4_i1.p1,MreB/Mbl protein,MreB_Mbl,6.20E-16
+TRINITY_DN165940_c1_g4_i1.p1,Cell division protein FtsA,FtsA,0.0019
+TRINITY_DN165940_c1_g4_i1.p1,Cell division protein FtsA,FtsA,0.0019
+TRINITY_DN165940_c1_g4_i1.p1,Cell division protein FtsA,FtsA,0.0019
+TRINITY_DN165940_c1_g4_i1.p1,Hydantoinase/oxoprolinase,Hydantoinase_A,0.05
+TRINITY_DN165940_c1_g4_i1.p1,Hydantoinase/oxoprolinase,Hydantoinase_A,0.05
+TRINITY_DN165940_c1_g4_i1.p2,NAD-specific glutamate dehydrogenase,NAD-GH,3.10E-62
+TRINITY_DN165940_c1_g4_i1.p4,Type II transport protein GspH,GspH,0.06
+TRINITY_DN139314_c0_g1_i1.p1,Protein kinase domain,Pkinase,8.30E-63
+TRINITY_DN139314_c0_g1_i1.p1,Hr1 repeat,HR1,5.70E-43
+TRINITY_DN139314_c0_g1_i1.p1,Hr1 repeat,HR1,5.70E-43
+TRINITY_DN139314_c0_g1_i1.p1,Hr1 repeat,HR1,5.70E-43
+TRINITY_DN139314_c0_g1_i1.p1,Protein tyrosine kinase,Pkinase_Tyr,1.00E-38
+TRINITY_DN139314_c0_g1_i1.p1,Protein kinase C terminal domain,Pkinase_C,1.30E-11
+TRINITY_DN139314_c0_g1_i1.p1,Protein kinase C terminal domain,Pkinase_C,1.30E-11
+TRINITY_DN139314_c0_g1_i1.p1,Protein kinase C terminal domain,Pkinase_C,1.30E-11
+TRINITY_DN139314_c0_g1_i1.p1,Protein kinase C terminal domain,Pkinase_C,1.30E-11
+TRINITY_DN139314_c0_g1_i1.p1,Protein kinase C terminal domain,Pkinase_C,1.30E-11
+TRINITY_DN139314_c0_g1_i1.p1,Kinase-like,Kinase-like,5.20E-08
+TRINITY_DN139314_c0_g1_i1.p1,Kinase-like,Kinase-like,5.20E-08
+TRINITY_DN139314_c0_g1_i1.p1,Kinase-like,Kinase-like,5.20E-08
+TRINITY_DN139314_c0_g1_i1.p1,Up-regulated During Septation,Uds1,1.10E-06
+TRINITY_DN139314_c0_g1_i1.p1,Up-regulated During Septation,Uds1,1.10E-06
+TRINITY_DN139314_c0_g1_i1.p1,Up-regulated During Septation,Uds1,1.10E-06
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin family,ubiquitin,5.40E-64
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin family,ubiquitin,5.40E-64
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin family,ubiquitin,5.40E-64
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-2 like Rad60 SUMO-like,Rad60-SLD,9.00E-30
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-2 like Rad60 SUMO-like,Rad60-SLD,9.00E-30
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-2 like Rad60 SUMO-like,Rad60-SLD,9.00E-30
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-like domain,Ubiquitin_2,1.20E-13
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-like domain,Ubiquitin_2,1.20E-13
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-2 like Rad60 SUMO-like,Rad60-SLD_2,2.70E-07
+TRINITY_DN154174_c26_g1_i1.p1,Ubiquitin-2 like Rad60 SUMO-like,Rad60-SLD_2,2.70E-07
+TRINITY_DN154174_c26_g1_i1.p1,DUF2407 ubiquitin-like domain,DUF2407,1.40E-05
+TRINITY_DN154174_c26_g1_i1.p1,DUF2407 ubiquitin-like domain,DUF2407,1.40E-05
+TRINITY_DN154174_c26_g1_i1.p1,Protein of unknown function (DUF2870),DUF2870,0.0035
+TRINITY_DN154174_c26_g1_i1.p1,Protein of unknown function (DUF2870),DUF2870,0.0035
+TRINITY_DN154174_c26_g1_i1.p1,Protein of unknown function (DUF2870),DUF2870,0.0035
+TRINITY_DN154174_c26_g1_i1.p1,N-terminal or F0 domain of Talin-head FERM,FERM_f0,0.0046
+TRINITY_DN154174_c26_g1_i1.p1,N-terminal or F0 domain of Talin-head FERM,FERM_f0,0.0046
+TRINITY_DN154174_c26_g1_i1.p1,Protein of unknown function (DUF969),DUF969,0.011
+TRINITY_DN154174_c26_g1_i1.p1,Protein of unknown function (DUF969),DUF969,0.011
+TRINITY_DN154174_c26_g1_i1.p1,Telomere stability and silencing,Telomere_Sde2,0.02
+TRINITY_DN154174_c26_g1_i1.p1,Telomere stability and silencing,Telomere_Sde2,0.02
+TRINITY_DN154174_c26_g1_i1.p1,ORF11CD3 domain,ORF11CD3,0.093
+TRINITY_DN154174_c26_g1_i1.p1,ORF11CD3 domain,ORF11CD3,0.093
+TRINITY_DN154174_c26_g1_i1.p1,ORF11CD3 domain,ORF11CD3,0.093
+TRINITY_DN154174_c26_g1_i1.p1,ORF11CD3 domain,ORF11CD3,0.093
+TRINITY_DN154174_c26_g1_i1.p1,RNA methyltransferase,Methyltrans_RNA,0.096
+TRINITY_DN154174_c26_g1_i1.p1,RNA methyltransferase,Methyltrans_RNA,0.096
+TRINITY_DN154174_c26_g1_i1.p1,Toluene-4-monooxygenase system protein B (TmoB),TmoB,0.19
+TRINITY_DN154174_c26_g1_i1.p1,Toluene-4-monooxygenase system protein B (TmoB),TmoB,0.19
+TRINITY_DN162188_c0_g1_i2.p2,Phosphatidylethanolamine-binding protein,PBP,7.50E-13
+TRINITY_DN162188_c0_g1_i2.p2,Carboxypeptidase inhibitor I68,Inhibitor_I68,0.06
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin,2.80E-64
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin,2.80E-64
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin,2.80E-64
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like domain,Thioredoxin_6,5.70E-43
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like domain,Thioredoxin_6,5.70E-43
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like domain,Thioredoxin_6,5.70E-43
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like domain,Thioredoxin_2,2.80E-11
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like domain,Thioredoxin_2,2.80E-11
+TRINITY_DN159118_c0_g1_i1.p1,"OST3 / OST6 family, transporter family",OST3_OST6,2.00E-10
+TRINITY_DN159118_c0_g1_i1.p1,"OST3 / OST6 family, transporter family",OST3_OST6,2.00E-10
+TRINITY_DN159118_c0_g1_i1.p1,"OST3 / OST6 family, transporter family",OST3_OST6,2.00E-10
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_7,1.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_7,1.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_7,1.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_7,1.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,AhpC/TSA family,AhpC-TSA,3.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,AhpC/TSA family,AhpC-TSA,3.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,AhpC/TSA family,AhpC-TSA,3.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,AhpC/TSA family,AhpC-TSA,3.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_8,7.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_8,7.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin-like,Thioredoxin_8,7.10E-09
+TRINITY_DN159118_c0_g1_i1.p1,Calsequestrin,Calsequestrin,1.30E-08
+TRINITY_DN159118_c0_g1_i1.p1,Calsequestrin,Calsequestrin,1.30E-08
+TRINITY_DN159118_c0_g1_i1.p1,Redoxin,Redoxin,7.20E-07
+TRINITY_DN159118_c0_g1_i1.p1,Redoxin,Redoxin,7.20E-07
+TRINITY_DN159118_c0_g1_i1.p1,Redoxin,Redoxin,7.20E-07
+TRINITY_DN159118_c0_g1_i1.p1,"ERp29, N-terminal domain",ERp29_N,6.70E-05
+TRINITY_DN159118_c0_g1_i1.p1,"ERp29, N-terminal domain",ERp29_N,6.70E-05
+TRINITY_DN159118_c0_g1_i1.p1,"ERp29, N-terminal domain",ERp29_N,6.70E-05
+TRINITY_DN159118_c0_g1_i1.p1,"ERp29, N-terminal domain",ERp29_N,6.70E-05
+TRINITY_DN159118_c0_g1_i1.p1,F plasmid transfer operon protein,TraF,0.0007
+TRINITY_DN159118_c0_g1_i1.p1,F plasmid transfer operon protein,TraF,0.0007
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin domain,Thioredoxin_3,0.0018
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin domain,Thioredoxin_3,0.0018
+TRINITY_DN159118_c0_g1_i1.p1,Hydrogenase-1 expression protein HyaE,HyaE,0.0039
+TRINITY_DN159118_c0_g1_i1.p1,Hydrogenase-1 expression protein HyaE,HyaE,0.0039
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin_9,0.015
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin_9,0.015
+TRINITY_DN159118_c0_g1_i1.p1,Bacterial domain of unknown function (DUF1798),DUF1798,0.02
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin_4,0.31
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin_4,0.31
+TRINITY_DN159118_c0_g1_i1.p1,Thioredoxin,Thioredoxin_4,0.31
+TRINITY_DN168155_c0_g1_i1.p1,F5/8 type C domain,F5_F8_type_C,0.049
+TRINITY_DN161858_c0_g9_i1.p1,Spider toxin,Toxin_9,5.2
+TRINITY_DN161858_c0_g9_i1.p1,Spider toxin,Toxin_9,5.2
+TRINITY_DN161858_c0_g9_i1.p1,Spider toxin,Toxin_9,5.2
+TRINITY_DN163490_c2_g2_i2.p2,"Adhesion molecule, immunoglobulin-like",Adhes-Ig_like,0.12
+TRINITY_DN163490_c2_g2_i2.p2,"Adhesion molecule, immunoglobulin-like",Adhes-Ig_like,0.12
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin domain,Cadherin,3.50E-152
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin cytoplasmic region,Cadherin_C,6.10E-40
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin cytoplasmic region,Cadherin_C,6.10E-40
+TRINITY_DN166240_c0_g1_i1.p1,Laminin G domain,Laminin_G_2,1.40E-38
+TRINITY_DN166240_c0_g1_i1.p1,Laminin G domain,Laminin_G_2,1.40E-38
+TRINITY_DN166240_c0_g1_i1.p1,Laminin G domain,Laminin_G_1,4.90E-29
+TRINITY_DN166240_c0_g1_i1.p1,Laminin G domain,Laminin_G_1,4.90E-29
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_2,1.30E-08
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_2,1.30E-08
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_2,1.30E-08
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_2,1.30E-08
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_2,1.30E-08
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,Cadherin-like,Cadherin_3,3.60E-06
+TRINITY_DN166240_c0_g1_i1.p1,TMEM154 protein family,TMEM154,0.0092
+TRINITY_DN166240_c0_g1_i1.p1,EGF-like domain,EGF,4.2
+TRINITY_DN166240_c0_g1_i1.p1,EGF-like domain,EGF,4.2
+TRINITY_DN166240_c0_g1_i1.p1,EGF-like domain,EGF,4.2
+TRINITY_DN166240_c0_g1_i1.p1,EGF-like domain,EGF,4.2
+TRINITY_DN166240_c0_g1_i1.p6,"CybS, succinate dehydrogenase cytochrome B small subunit",CybS,0.21
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_7,4.50E-19
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_7,4.50E-19
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_7,4.50E-19
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_6,9.70E-18
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_6,9.70E-18
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_6,9.70E-18
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_6,9.70E-18
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_1,4.80E-15
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_1,4.80E-15
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_1,4.80E-15
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_1,4.80E-15
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,1.10E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,1.10E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,1.10E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain pair,EF-hand_8,1.10E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_5,1.50E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_5,1.50E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_5,1.50E-10
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_5,1.50E-10
+TRINITY_DN150231_c0_g3_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,5.60E-05
+TRINITY_DN150231_c0_g3_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,5.60E-05
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_11,0.008
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_11,0.008
+TRINITY_DN150231_c0_g3_i1.p1,EF-hand domain,EF-hand_11,0.008
+TRINITY_DN150231_c0_g3_i1.p1,Pseudomurein-binding repeat,PMBR,0.087
+TRINITY_DN150231_c0_g3_i1.p1,Pseudomurein-binding repeat,PMBR,0.087
+TRINITY_DN150231_c0_g3_i1.p1,Pseudomurein-binding repeat,PMBR,0.087
+TRINITY_DN150231_c0_g3_i1.p1,Protein of unknown function (DUF776),DUF776,0.13
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_10,1.7
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_10,1.7
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_10,1.7
+TRINITY_DN150231_c0_g3_i1.p1,EF hand,EF-hand_10,1.7
+TRINITY_DN161964_c0_g1_i1.p1,ZIP Zinc transporter,Zip,6.60E-69
+TRINITY_DN161964_c0_g1_i1.p1,ZIP Zinc transporter,Zip,6.60E-69
+TRINITY_DN161964_c0_g1_i1.p1,ZIP Zinc transporter,Zip,6.60E-69
+TRINITY_DN161964_c0_g1_i1.p1,ZIP Zinc transporter,Zip,6.60E-69
+TRINITY_DN161964_c0_g1_i1.p1,FAM176 family,FAM176,4.2
+TRINITY_DN161964_c0_g1_i1.p1,FAM176 family,FAM176,4.2
+TRINITY_DN161964_c0_g1_i1.p1,FAM176 family,FAM176,4.2
+TRINITY_DN167515_c1_g1_i1.p1,7 transmembrane receptor (Secretin family),7tm_2,2.30E-39
+TRINITY_DN167515_c1_g1_i1.p1,"GPCR proteolysis site, GPS, motif",GPS,1.40E-12
+TRINITY_DN167515_c1_g1_i1.p1,Frizzled/Smoothened family membrane region,Frizzled,2.60E-06
+TRINITY_DN167515_c1_g1_i1.p1,Serpentine type 7TM GPCR receptor class ab chemoreceptor,7TM_GPCR_Srab,0.002
+TRINITY_DN167515_c1_g1_i1.p1,Serpentine type 7TM GPCR receptor class ab chemoreceptor,7TM_GPCR_Srab,0.002
+TRINITY_DN167515_c1_g1_i1.p1,Lectin C-type domain,Lectin_C,0.022
+TRINITY_DN167515_c1_g1_i1.p1,Lectin C-type domain,Lectin_C,0.022
+TRINITY_DN167515_c1_g1_i1.p1,Lectin C-type domain,Lectin_C,0.022
+TRINITY_DN167515_c1_g1_i1.p1,Lectin C-type domain,Lectin_C,0.022
+TRINITY_DN167515_c1_g1_i1.p1,TraL protein,TraL,0.25
+TRINITY_DN167515_c1_g1_i1.p1,TraL protein,TraL,0.25
+TRINITY_DN167515_c1_g2_i1.p1,Lectin C-type domain,Lectin_C,0.00092
+TRINITY_DN167570_c1_g1_i2.p1,von Willebrand factor type D domain,VWD,1.20E-11
+TRINITY_DN167570_c1_g1_i2.p1,von Willebrand factor type D domain,VWD,1.20E-11
+TRINITY_DN167570_c1_g1_i2.p1,Nidogen-like,NIDO,4.70E-06
+TRINITY_DN167570_c1_g1_i2.p1,Nidogen-like,NIDO,4.70E-06
+TRINITY_DN167570_c1_g1_i2.p1,AMOP domain,AMOP,0.00019
+TRINITY_DN167570_c1_g1_i2.p1,SEA domain,SEA,0.0002
+TRINITY_DN149045_c4_g1_i1.p1,14-3-3 protein,14-3-3,3.30E-102
+TRINITY_DN164460_c2_g2_i3.p1,Domain of unknown function (DUF5300),DUF5300,0.044
+TRINITY_DN161099_c1_g1_i1.p1,Calreticulin family,Calreticulin,1.50E-81
+TRINITY_DN161099_c1_g1_i1.p1,Calreticulin family,Calreticulin,1.50E-81
+TRINITY_DN161099_c1_g1_i1.p1,Calreticulin family,Calreticulin,1.50E-81
+TRINITY_DN125355_c0_g1_i1.p1,VHL beta domain,VHL,8.60E-22
+TRINITY_DN125355_c0_g1_i1.p1,VHL box domain,VHL_C,1.90E-05
+TRINITY_DN154223_c0_g3_i1.p1,Plant thionin,Thionin,0.16
+TRINITY_DN154223_c0_g3_i1.p1,Plant thionin,Thionin,0.16
+TRINITY_DN154223_c0_g3_i1.p1,Plant thionin,Thionin,0.16
+TRINITY_DN157228_c0_g1_i1.p1,Copper/zinc superoxide dismutase (SODC),Sod_Cu,2.20E-50
+TRINITY_DN157228_c0_g1_i1.p1,CHRD domain,CHRD,0.013
+TRINITY_DN158067_c4_g2_i1.p1,Pro-corazonin,Corazonin,0.0064
+TRINITY_DN158067_c4_g2_i1.p1,Pro-corazonin,Corazonin,0.0064
+TRINITY_DN158067_c4_g2_i1.p1,Translation initiation factor eIF3 subunit 135,eIF3_p135,0.22
+TRINITY_DN158067_c4_g2_i1.p1,Translation initiation factor eIF3 subunit 135,eIF3_p135,0.22
+TRINITY_DN158067_c4_g2_i1.p1,Menin,Menin,0.35
+TRINITY_DN158067_c4_g2_i1.p1,Orf78 (ac78),Orf78,1.3
+TRINITY_DN158040_c3_g3_i4.p1,"Exonuclease VII, large subunit",Exonuc_VII_L,0.01
+TRINITY_DN158040_c3_g3_i4.p1,Macoilin family,Macoilin,0.021
+TRINITY_DN158040_c3_g3_i4.p1,Autophagy protein Apg6,APG6,0.031
+TRINITY_DN158040_c3_g3_i4.p1,Domain of unknown function (DUF4407),DUF4407,0.033
+TRINITY_DN158040_c3_g3_i4.p1,V-type ATPase 116kDa subunit family,V_ATPase_I,0.076
+TRINITY_DN158040_c3_g3_i4.p1,Protein of unknown function (DUF3292),DUF3292,0.14
+TRINITY_DN158040_c3_g3_i4.p1,Topoisomerase II-associated protein PAT1,PAT1,0.17
+TRINITY_DN158040_c3_g3_i4.p1,Protein tyrosine phosphatase receptor type C-associated,PTPRCAP,0.45
+TRINITY_DN158040_c3_g3_i4.p1,Ryanodine Receptor TM 4-6,RR_TM4-6,0.81
+TRINITY_DN158040_c3_g3_i4.p1,Band 3 cytoplasmic domain,Band_3_cyto,0.99
+TRINITY_DN158040_c3_g3_i4.p1,Flagellar Assembly Protein A,FapA,1.4
+TRINITY_DN158040_c3_g3_i4.p1,Mitochondrial Myo2 receptor-related protein,MMR1,1.5
+TRINITY_DN158040_c3_g3_i4.p1,Mitochondrial Myo2 receptor-related protein,MMR1,1.5
+TRINITY_DN158040_c3_g3_i4.p1,Gene regulated by oestrogen in breast cancer,GREB1,2
+TRINITY_DN158040_c3_g3_i4.p1,Domain of unknown function (DUF4746),DUF4746,2.5
+TRINITY_DN158040_c3_g3_i4.p1,Peptidase family S64,Peptidase_S64,4.7
+TRINITY_DN158040_c3_g3_i4.p1,Telomere-associated protein TERB2,TERB2,4.9
+TRINITY_DN167016_c1_g1_i3.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,7.00E-05
+TRINITY_DN167016_c1_g1_i3.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,7.00E-05
+TRINITY_DN167016_c1_g1_i3.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,7.00E-05
+TRINITY_DN167016_c1_g1_i3.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,7.00E-05
+TRINITY_DN167016_c1_g1_i3.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,7.00E-05
+TRINITY_DN167016_c1_g1_i3.p1,Chondroitin proteoglycan 4,CPG4,2.8
+TRINITY_DN167016_c1_g1_i3.p1,Chondroitin proteoglycan 4,CPG4,2.8
+TRINITY_DN167016_c1_g1_i3.p1,Chondroitin proteoglycan 4,CPG4,2.8
+TRINITY_DN167016_c1_g1_i3.p1,Chondroitin proteoglycan 4,CPG4,2.8
+TRINITY_DN167016_c1_g1_i3.p1,Chondroitin proteoglycan 4,CPG4,2.8
+TRINITY_DN167016_c1_g1_i3.p1,Chondroitin proteoglycan 4,CPG4,2.8
+TRINITY_DN156594_c4_g1_i1.p1,"Transcription initiation factor IIF, alpha subunit (TFIIF-alpha)",TFIIF_alpha,7.6
+TRINITY_DN156594_c4_g1_i1.p3,Nuclear RNA-splicing-associated protein,SR-25,6.7
+TRINITY_DN165828_c1_g2_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.50E-10
+TRINITY_DN165828_c1_g2_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.50E-10
+TRINITY_DN165828_c1_g2_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.50E-10
+TRINITY_DN165828_c1_g2_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.50E-10
+TRINITY_DN165822_c1_g1_i2.p1,Neural proliferation differentiation control-1 protein (NPDC1),NPDC1,1.20E-38
+TRINITY_DN165822_c1_g1_i2.p1,Protein of unknown function (DUF726),DUF726,0.072
+TRINITY_DN165822_c1_g1_i2.p1,Epstein-Barr virus nuclear antigen 3 (EBNA-3),EBV-NA3,0.12
+TRINITY_DN162679_c0_g1_i1.p1,A-macroglobulin complement component,A2M_comp,2.40E-54
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,2.40E-19
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,2.40E-19
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,2.40E-19
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,2.40E-19
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family N-terminal region,A2M_N_2,2.40E-19
+TRINITY_DN162679_c0_g1_i1.p1,MG2 domain,A2M_N,5.00E-14
+TRINITY_DN162679_c0_g1_i1.p1,MG2 domain,A2M_N,5.00E-14
+TRINITY_DN162679_c0_g1_i1.p1,MG2 domain,A2M_N,5.00E-14
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-macro-globulin thiol-ester bond-forming region,Thiol-ester_cl,5.40E-14
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family,A2M,6.20E-14
+TRINITY_DN162679_c0_g1_i1.p1,Alpha-2-macroglobulin family,A2M,6.20E-14
+TRINITY_DN162679_c0_g1_i1.p1,A-macroglobulin receptor,A2M_recep,1.70E-08
+TRINITY_DN162679_c0_g1_i1.p1,Squalene-hopene cyclase C-terminal domain,SQHop_cyclase_C,0.0057
+TRINITY_DN162679_c0_g1_i1.p1,Squalene-hopene cyclase C-terminal domain,SQHop_cyclase_C,0.0057
+TRINITY_DN162679_c0_g1_i1.p4,Sporulation protein YtfJ (Spore_YtfJ),Spore_YtfJ,0.016
+TRINITY_DN163252_c1_g1_i2.p1,Strictosidine synthase,Str_synth,5.00E-16
+TRINITY_DN163252_c1_g1_i2.p1,SMP-30/Gluconolaconase/LRE-like region,SGL,1.20E-13
+TRINITY_DN163252_c1_g1_i2.p1,SMP-30/Gluconolaconase/LRE-like region,SGL,1.20E-13
+TRINITY_DN163252_c1_g1_i2.p1,Arylesterase,Arylesterase,0.012
+TRINITY_DN163206_c3_g5_i2.p1,Chondroitin proteoglycan 4,CPG4,1.30E-05
+TRINITY_DN163206_c3_g5_i2.p1,Chondroitin proteoglycan 4,CPG4,1.30E-05
+TRINITY_DN163206_c3_g5_i2.p1,Protein of unknown function (DUF1397),DUF1397,0.017
+TRINITY_DN163206_c3_g5_i2.p1,Protein of unknown function (DUF1397),DUF1397,0.017
+TRINITY_DN163206_c3_g5_i2.p1,Nucleoporin protein Ndc1-Nup,Ndc1_Nup,1.4
+TRINITY_DN163206_c3_g5_i2.p1,Peptidase family S64,Peptidase_S64,9.8
+TRINITY_DN163206_c3_g5_i2.p2,M-phase inducer phosphatase,M-inducer_phosp,4.3
+TRINITY_DN163206_c3_g5_i2.p2,M-phase inducer phosphatase,M-inducer_phosp,4.3
+TRINITY_DN124947_c0_g1_i1.p1,Protein of unknown function (DUF3105),DUF3105,4.80E-38
+TRINITY_DN164903_c0_g1_i1.p1,56kDa selenium binding protein (SBP56),SBP56,1.30E-166
+TRINITY_DN164903_c0_g1_i1.p1,"Lactonase, 7-bladed beta-propeller",Lactonase,1.00E-06
+TRINITY_DN164903_c0_g1_i1.p1,"Lactonase, 7-bladed beta-propeller",Lactonase,1.00E-06
+TRINITY_DN164987_c0_g2_i5.p1,Tropomyosin like,Tropomyosin_1,0.00032
+TRINITY_DN164987_c0_g2_i5.p1,Maltoporin periplasmic N-terminal extension,Sugarporin_N,0.57
+TRINITY_DN164987_c0_g2_i5.p1,Maltoporin periplasmic N-terminal extension,Sugarporin_N,0.57
+TRINITY_DN163711_c0_g1_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,2.10E-07
+TRINITY_DN163711_c0_g1_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,2.10E-07
+TRINITY_DN163711_c0_g1_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,2.10E-07
+TRINITY_DN163711_c0_g1_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,2.10E-07
+TRINITY_DN163711_c0_g1_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,2.10E-07
+TRINITY_DN163711_c0_g2_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,7.30E-10
+TRINITY_DN163711_c0_g2_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,7.30E-10
+TRINITY_DN163711_c0_g2_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,7.30E-10
+TRINITY_DN163711_c0_g2_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,7.30E-10
+TRINITY_DN163711_c0_g2_i2.p1,WAP-type (Whey Acidic Protein) 'four-disulfide core',WAP,7.30E-10
+TRINITY_DN160912_c0_g1_i1.p1,Galactose binding lectin domain,Gal_Lectin,3.40E-10
+TRINITY_DN157469_c3_g2_i4.p1,TMPIT-like protein,TMPIT,5.1
+TRINITY_DN157469_c3_g2_i4.p1,TMPIT-like protein,TMPIT,5.1
+TRINITY_DN157469_c3_g2_i4.p1,Sine oculis-binding protein,SOBP,6.2
+TRINITY_DN157469_c3_g2_i4.p2,Small metal-binding protein,SMBP,0.024
+TRINITY_DN157469_c3_g2_i4.p2,Small metal-binding protein,SMBP,0.024
+TRINITY_DN157469_c3_g2_i4.p2,Protein of unknown function (DUF445),DUF445,0.044
+TRINITY_DN157469_c3_g2_i4.p2,Transcription factor e(y)2,EnY2,0.091
+TRINITY_DN157469_c3_g2_i4.p2,Transcription factor e(y)2,EnY2,0.091
+TRINITY_DN157469_c3_g2_i4.p2,Transcription factor e(y)2,EnY2,0.091
+TRINITY_DN157469_c3_g2_i4.p2,Mechanosensitive ion channel,MS_channel,0.094
+TRINITY_DN157469_c3_g2_i4.p2,Adaptin N terminal region,Adaptin_N,0.14
+TRINITY_DN157469_c3_g2_i4.p2,Adaptin N terminal region,Adaptin_N,0.14
+TRINITY_DN157469_c3_g2_i4.p2,YtxH-like protein,YtxH,0.15
+TRINITY_DN157469_c3_g2_i4.p2,TLR4 regulator and MIR-interacting MSAP,DUF3456,0.26
+TRINITY_DN157469_c3_g2_i4.p2,"Type II secretion system (T2SS), protein F",T2SSF,0.26
+TRINITY_DN157469_c3_g2_i4.p2,"Type II secretion system (T2SS), protein F",T2SSF,0.26
+TRINITY_DN157469_c3_g2_i4.p2,"Type II secretion system (T2SS), protein F",T2SSF,0.26
+TRINITY_DN157469_c3_g2_i4.p2,N-terminal domain on NACHT_NTPase and P-loop NTPases,SesA,0.64
+TRINITY_DN157469_c3_g2_i4.p2,N-terminal domain on NACHT_NTPase and P-loop NTPases,SesA,0.64
+TRINITY_DN157469_c3_g2_i4.p2,N-terminal domain on NACHT_NTPase and P-loop NTPases,SesA,0.64
+TRINITY_DN157469_c3_g2_i4.p2,DNA polymerases epsilon N terminal,Dpoe2NT,2.1
+TRINITY_DN157469_c3_g2_i4.p2,DNA polymerases epsilon N terminal,Dpoe2NT,2.1
+TRINITY_DN157469_c3_g2_i4.p2,DNA polymerases epsilon N terminal,Dpoe2NT,2.1
+TRINITY_DN157469_c3_g2_i4.p2,DNA polymerases epsilon N terminal,Dpoe2NT,2.1
+TRINITY_DN149271_c2_g2_i1.p1,Cytochrome b5-like Heme/Steroid binding domain,Cyt-b5,1.80E-09
+TRINITY_DN153208_c0_g1_i1.p1,Cartilage oligomeric matrix protein,COMP,0.0017
+TRINITY_DN153208_c0_g1_i1.p1,Cartilage oligomeric matrix protein,COMP,0.0017
+TRINITY_DN153208_c0_g1_i1.p1,Golgi transport complex subunit 5,COG5,0.085
+TRINITY_DN153208_c0_g1_i1.p1,Golgi transport complex subunit 5,COG5,0.085
+TRINITY_DN153208_c0_g1_i1.p1,Uncharacterized conserved protein (DUF2294),DUF2294,0.091
+TRINITY_DN153208_c0_g1_i1.p1,Stage III sporulation protein AB (spore_III_AB),Spore_III_AB,0.2
+TRINITY_DN153208_c0_g1_i1.p1,Stage III sporulation protein AB (spore_III_AB),Spore_III_AB,0.2
+TRINITY_DN153208_c0_g1_i1.p1,Stage III sporulation protein AB (spore_III_AB),Spore_III_AB,0.2
+TRINITY_DN153208_c0_g1_i1.p1,Stage III sporulation protein AB (spore_III_AB),Spore_III_AB,0.2
+TRINITY_DN153208_c0_g1_i1.p1,Gluconate 2-dehydrogenase subunit 3,Gluconate_2-dh3,0.26
+TRINITY_DN153208_c0_g1_i1.p1,Gluconate 2-dehydrogenase subunit 3,Gluconate_2-dh3,0.26
+TRINITY_DN153208_c0_g1_i1.p1,Gluconate 2-dehydrogenase subunit 3,Gluconate_2-dh3,0.26
+TRINITY_DN153208_c0_g1_i1.p1,YtxH-like protein,YtxH,0.34
+TRINITY_DN153208_c0_g1_i1.p1,YtxH-like protein,YtxH,0.34
+TRINITY_DN153208_c0_g1_i1.p1,YtxH-like protein,YtxH,0.34
+TRINITY_DN153208_c0_g1_i1.p1,Nucleolar protein 12 (25kDa),Nop25,0.66
+TRINITY_DN153208_c0_g1_i1.p1,Nucleolar protein 12 (25kDa),Nop25,0.66
+TRINITY_DN153208_c0_g1_i1.p3,Calcium-activated BK potassium channel alpha subunit,BK_channel_a,0.063
+TRINITY_DN153208_c0_g1_i1.p3,Calcium-activated BK potassium channel alpha subunit,BK_channel_a,0.063
+TRINITY_DN156259_c1_g3_i1.p1,Reeler domain,Reeler,2.80E-16
+TRINITY_DN156259_c1_g3_i1.p1,Reeler domain,Reeler,2.80E-16
+TRINITY_DN167446_c1_g1_i1.p1,HYR domain,HYR,1.60E-36
+TRINITY_DN167446_c1_g1_i1.p1,HYR domain,HYR,1.60E-36
+TRINITY_DN167446_c1_g1_i1.p1,HYR domain,HYR,1.60E-36
+TRINITY_DN167446_c1_g1_i1.p1,Putative ephrin-receptor like,Ephrin_rec_like,8.90E-28
+TRINITY_DN167446_c1_g1_i1.p1,Putative ephrin-receptor like,Ephrin_rec_like,8.90E-28
+TRINITY_DN167446_c1_g1_i1.p1,Putative ephrin-receptor like,Ephrin_rec_like,8.90E-28
+TRINITY_DN167446_c1_g1_i1.p1,Putative ephrin-receptor like,Ephrin_rec_like,8.90E-28
+TRINITY_DN167446_c1_g1_i1.p1,Putative ephrin-receptor like,Ephrin_rec_like,8.90E-28
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Sushi repeat (SCR repeat),Sushi,5.60E-23
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,Thrombospondin type 1 domain,TSP_1,3.90E-21
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF,4.10E-05
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF,4.10E-05
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF,4.10E-05
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF,4.10E-05
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF,4.10E-05
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,0.0021
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,EGF-like domain,EGF_2,0.0052
+TRINITY_DN167446_c1_g1_i1.p1,TMEM154 protein family,TMEM154,0.08
+TRINITY_DN167446_c1_g1_i1.p1,PKD domain,PKD,0.16
+TRINITY_DN167446_c1_g1_i1.p1,PKD domain,PKD,0.16
+TRINITY_DN167446_c1_g1_i1.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.19
+TRINITY_DN167462_c1_g2_i1.p1,"MAM domain, meprin/A5/mu",MAM,9.60E-81
+TRINITY_DN167462_c1_g2_i1.p1,"MAM domain, meprin/A5/mu",MAM,9.60E-81
+TRINITY_DN167462_c1_g2_i1.p1,"MAM domain, meprin/A5/mu",MAM,9.60E-81
+TRINITY_DN167462_c1_g2_i1.p1,"MAM domain, meprin/A5/mu",MAM,9.60E-81
+TRINITY_DN167462_c1_g2_i1.p1,"MAM domain, meprin/A5/mu",MAM,9.60E-81
+TRINITY_DN167462_c1_g2_i1.p1,CUB domain,CUB,1.10E-19
+TRINITY_DN167462_c1_g2_i1.p1,F5/8 type C domain,F5_F8_type_C,1.10E-06
+TRINITY_DN167462_c1_g2_i1.p1,F5/8 type C domain,F5_F8_type_C,1.10E-06
+TRINITY_DN167462_c1_g2_i1.p1,Protein of unknown function (DUF459),DUF459,0.0018
+TRINITY_DN167462_c1_g2_i1.p1,Protein of unknown function (DUF459),DUF459,0.0018
+TRINITY_DN167462_c1_g2_i1.p1,CUB-like domain,CUB_2,0.0073
+TRINITY_DN167462_c1_g3_i1.p1,Predicted membrane protein (DUF2070),DUF2070,0.24
+TRINITY_DN167462_c1_g3_i1.p1,EGF-like domain,EGF_2,5.2
+TRINITY_DN167462_c1_g3_i1.p1,EGF-like domain,EGF_2,5.2
+TRINITY_DN149172_c0_g1_i1.p1,Antistasin family,Antistasin,1.90E-22
+TRINITY_DN149172_c0_g1_i1.p1,Antistasin family,Antistasin,1.90E-22
+TRINITY_DN149172_c0_g1_i1.p1,Antistasin family,Antistasin,1.90E-22
+TRINITY_DN149172_c0_g1_i1.p1,Antistasin family,Antistasin,1.90E-22
+TRINITY_DN149172_c0_g1_i1.p1,Antistasin family,Antistasin,1.90E-22
+TRINITY_DN149172_c0_g1_i1.p1,Antistasin family,Antistasin,1.90E-22
+TRINITY_DN162747_c0_g1_i1.p2,Special lobe-specific silk protein SSP160,SSP160,0.26
+TRINITY_DN162747_c0_g1_i1.p2,Mucin-like glycoprotein,Mucin,3.3
+TRINITY_DN162747_c0_g1_i1.p3,Anti-sigma-K factor rskA,RskA,0.0073
+TRINITY_DN162747_c0_g1_i1.p3,Mitochondrial fission regulator,Mito_fiss_reg,4.3
+TRINITY_DN142923_c0_g1_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,7.20E-15
+TRINITY_DN142923_c0_g1_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,7.20E-15
+TRINITY_DN142905_c0_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,6.40E-07
+TRINITY_DN142905_c0_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,6.40E-07
+TRINITY_DN142905_c0_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,6.40E-07
+TRINITY_DN142905_c0_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,6.40E-07
+TRINITY_DN158876_c0_g3_i1.p1,Polysaccharide deacetylase,Polysacc_deac_1,1.30E-05
+TRINITY_DN158876_c0_g3_i1.p1,Polysaccharide deacetylase,Polysacc_deac_1,1.30E-05
+TRINITY_DN166114_c1_g2_i1.p2,Glycine rich protein family,GRP,1.6
+TRINITY_DN166114_c1_g2_i1.p2,Glycine rich protein family,GRP,1.6
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,EB module,EB,0
+TRINITY_DN167621_c0_g1_i1.p1,TMEM154 protein family,TMEM154,0.014
+TRINITY_DN167621_c0_g1_i1.p1,Uncharacterised protein family UPF0560,UPF0560,0.11
+TRINITY_DN167621_c0_g1_i1.p9,Domain of unknown function (DUF3470),DUF3470,0.12
+TRINITY_DN167621_c0_g1_i1.p10,Bunyavirus non-structural protein NS-s,Bunya_NS-S,0.085
+TRINITY_DN167621_c0_g1_i1.p10,tRNA-splicing endonuclease subunit sen54 N-term,tRNA_int_end_N2,0.12
+TRINITY_DN167621_c0_g1_i1.p14,Nucleopolyhedrovirus p26 protein,Baculo_p26,0.038
+TRINITY_DN167621_c0_g1_i1.p16,AAA domain,AAA_27,0.064
+TRINITY_DN167621_c0_g1_i1.p18,Protein of unknown function (DUF561),DUF561,0.1
+TRINITY_DN167621_c0_g1_i1.p25,Laminin G domain,Laminin_G_2,0.15
+TRINITY_DN161784_c0_g1_i1.p2,Lysosome-associated membrane glycoprotein (Lamp),Lamp,0.99
+TRINITY_DN142301_c1_g1_i2.p1,Centrosome microtubule-binding domain of Cep57,Cep57_MT_bd,0.0018
+TRINITY_DN142301_c1_g1_i2.p1,Spc7 kinetochore protein,Spc7,0.047
+TRINITY_DN142301_c1_g1_i2.p1,TPR/MLP1/MLP2-like protein,TPR_MLP1_2,0.053
+TRINITY_DN142301_c1_g1_i2.p1,Vacuolar sorting 38 and autophagy-related subunit 14,Atg14,0.26
+TRINITY_DN160567_c1_g1_i1.p1,Endoribonuclease L-PSP,Ribonuc_L-PSP,1.70E-40
+TRINITY_DN160567_c1_g1_i1.p1,Coronavirus 6B/7B protein,Corona_6B_7B,0.1
+TRINITY_DN152553_c3_g1_i2.p1,TNFR/NGFR cysteine-rich region,TNFR_c6,1.30E-12
+TRINITY_DN152553_c3_g1_i2.p1,TNFR/NGFR cysteine-rich region,TNFR_c6,1.30E-12
+TRINITY_DN152553_c3_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0022
+TRINITY_DN152553_c3_g1_i2.p1,Putative ephrin-receptor like,Ephrin_rec_like,0.0022
+TRINITY_DN163062_c8_g1_i3.p1,Preprotein translocase subunit,YajC,0.00046
+TRINITY_DN163062_c8_g1_i3.p1,Orf78 (ac78),Orf78,0.00054
+TRINITY_DN163062_c8_g1_i3.p1,Orf78 (ac78),Orf78,0.00054
+TRINITY_DN163062_c8_g1_i3.p1,"Chitin synthesis regulation, resistance to Congo red",RCR,0.0026
+TRINITY_DN163062_c8_g1_i3.p1,"Chitin synthesis regulation, resistance to Congo red",RCR,0.0026
+TRINITY_DN163062_c8_g1_i3.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.0039
+TRINITY_DN163062_c8_g1_i3.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.0039
+TRINITY_DN163062_c8_g1_i3.p1,Endothelial cell-specific chemotaxis regulator,ECSCR,0.0066
+TRINITY_DN163062_c8_g1_i3.p1,Endothelial cell-specific chemotaxis regulator,ECSCR,0.0066
+TRINITY_DN163062_c8_g1_i3.p1,Family of unknown function (DUF5385),DUF5385,0.021
+TRINITY_DN163062_c8_g1_i3.p1,DAP10 membrane protein,DAP10,0.081
+TRINITY_DN163062_c8_g1_i3.p1,Protocadherin,Protocadherin,0.12
+TRINITY_DN163062_c8_g1_i3.p1,Cytochrome oxidase c assembly,COX14,0.16
+TRINITY_DN163062_c8_g1_i3.p1,Rifin,RIFIN,0.67
+TRINITY_DN163062_c8_g1_i3.p1,Syndecan domain,Syndecan,1.2
+TRINITY_DN163062_c8_g1_i3.p1,Bacteriophage coat protein B,CoatB,1.6
+TRINITY_DN163062_c8_g1_i3.p2,Domain of unknown function (DUF4147),DUF4147,0.031
+TRINITY_DN156479_c1_g2_i1.p1,EGF-like domain,EGF_2,0.0026
+TRINITY_DN156479_c1_g2_i1.p1,EGF-like domain,EGF_2,0.0026
+TRINITY_DN156479_c1_g2_i1.p1,EGF-like domain,EGF_2,0.0026
+TRINITY_DN156479_c1_g2_i1.p1,EGF-like domain,EGF,0.0038
+TRINITY_DN156479_c1_g2_i1.p1,EGF-like domain,EGF,0.0038
+TRINITY_DN164522_c3_g1_i3.p1,chi-Conotoxin or t superfamily,Chi-conotoxin,0.032
+TRINITY_DN164522_c3_g1_i3.p1,chi-Conotoxin or t superfamily,Chi-conotoxin,0.032
+TRINITY_DN164522_c3_g1_i3.p1,Malonyl-CoA decarboxylase C-terminal domain,MCD,0.054
+TRINITY_DN164522_c3_g1_i3.p1,Malonyl-CoA decarboxylase C-terminal domain,MCD,0.054
+TRINITY_DN164522_c3_g1_i3.p1,Protein of unknown function (DUF724),DUF724,0.22
+TRINITY_DN164522_c3_g1_i3.p1,Extracellular mutant protein 11,ECM11,0.35
+TRINITY_DN164522_c3_g1_i3.p1,Extracellular mutant protein 11,ECM11,0.35
+TRINITY_DN164543_c3_g2_i1.p1,Metallo-peptidase family M12B Reprolysin-like,Reprolysin_2,3.10E-32
+TRINITY_DN164543_c3_g2_i1.p1,Metallo-peptidase family M12,Reprolysin_5,8.40E-26
+TRINITY_DN164543_c3_g2_i1.p1,Metallo-peptidase family M12,Reprolysin_5,8.40E-26
+TRINITY_DN164543_c3_g2_i1.p1,Metallo-peptidase family M12B Reprolysin-like,Reprolysin_3,2.10E-15
+TRINITY_DN164543_c3_g2_i1.p1,Metallo-peptidase family M12B Reprolysin-like,Reprolysin_4,3.40E-13
+TRINITY_DN164543_c3_g2_i1.p1,Reprolysin family propeptide,Pep_M12B_propep,3.70E-13
+TRINITY_DN164543_c3_g2_i1.p1,Reprolysin family propeptide,Pep_M12B_propep,3.70E-13
+TRINITY_DN164543_c3_g2_i1.p1,Reprolysin family propeptide,Pep_M12B_propep,3.70E-13
+TRINITY_DN164543_c3_g2_i1.p1,Peptidase M66,Peptidase_M66,0.0092
+TRINITY_DN164543_c3_g2_i1.p1,Ctr copper transporter family,Ctr,0.017
+TRINITY_DN164543_c3_g2_i1.p1,Ctr copper transporter family,Ctr,0.017
+TRINITY_DN164543_c3_g2_i1.p1,Neurotransmitter-gated ion-channel transmembrane region,Neur_chan_memb,0.06
+TRINITY_DN164543_c3_g2_i1.p1,Neurotransmitter-gated ion-channel transmembrane region,Neur_chan_memb,0.06
+TRINITY_DN164543_c3_g2_i1.p1,Olfactory receptor 4-like,ODR4-like,0.11
+TRINITY_DN164543_c3_g2_i1.p1,Uncharacterised protein family (UPF0370),UPF0370,0.49
+TRINITY_DN164543_c3_g2_i1.p2,TFIIB zinc-binding,TF_Zn_Ribbon,0.099
+TRINITY_DN162087_c0_g2_i1.p1,Mucin-like glycoprotein,Mucin,0.19
+TRINITY_DN162087_c0_g2_i1.p1,Mucin-like glycoprotein,Mucin,0.19
+TRINITY_DN162087_c0_g2_i1.p1,Special lobe-specific silk protein SSP160,SSP160,2
+TRINITY_DN151027_c6_g1_i1.p1,Peptidase family M28,Peptidase_M28,4.20E-14
+TRINITY_DN151027_c6_g1_i1.p1,Peptidase family M28,Peptidase_M28,4.20E-14
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu GTP binding domain,GTP_EFTU,1.70E-54
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu C-terminal domain,GTP_EFTU_D3,3.50E-41
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu C-terminal domain,GTP_EFTU_D3,3.50E-41
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu domain 2,GTP_EFTU_D2,6.00E-14
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu domain 2,GTP_EFTU_D2,6.00E-14
+TRINITY_DN151045_c2_g1_i1.p1,50S ribosome-binding GTPase,MMR_HSR1,4.40E-05
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu domain 4,GTP_EFTU_D4,0.00038
+TRINITY_DN151045_c2_g1_i1.p1,Elongation factor Tu domain 4,GTP_EFTU_D4,0.00038
+TRINITY_DN151045_c2_g1_i1.p1,Gtr1/RagA G protein conserved region,Gtr1_RagA,0.0015
+TRINITY_DN151045_c2_g1_i1.p1,Dynamin family,Dynamin_N,0.014
+TRINITY_DN151045_c2_g1_i1.p1,Dynamin family,Dynamin_N,0.014
+TRINITY_DN151045_c2_g1_i1.p1,Dynamin family,Dynamin_N,0.014
+TRINITY_DN165004_c4_g1_i1.p1,Ribonuclease T2 family,Ribonuclease_T2,2.70E-54
+TRINITY_DN165004_c4_g1_i1.p2,Protein of unknown function (DUF4029),DUF4029,0.061
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF,2.60E-18
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF,2.60E-18
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF,2.60E-18
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF,2.60E-18
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF,2.60E-18
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF,2.60E-18
+TRINITY_DN165091_c3_g1_i1.p1,Delta serrate ligand,DSL,3.20E-13
+TRINITY_DN165091_c3_g1_i1.p1,Delta serrate ligand,DSL,3.20E-13
+TRINITY_DN165091_c3_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,1.10E-08
+TRINITY_DN165091_c3_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,1.10E-08
+TRINITY_DN165091_c3_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,1.10E-08
+TRINITY_DN165091_c3_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,1.10E-08
+TRINITY_DN165091_c3_g1_i1.p1,Calcium-binding EGF domain,EGF_CA,1.10E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,Human growth factor-like EGF,hEGF,1.20E-08
+TRINITY_DN165091_c3_g1_i1.p1,TMEM154 protein family,TMEM154,4.70E-05
+TRINITY_DN165091_c3_g1_i1.p1,TMEM154 protein family,TMEM154,4.70E-05
+TRINITY_DN165091_c3_g1_i1.p1,EGF domain,EGF_3,8.50E-05
+TRINITY_DN165091_c3_g1_i1.p1,EGF domain,EGF_3,8.50E-05
+TRINITY_DN165091_c3_g1_i1.p1,EGF domain,EGF_3,8.50E-05
+TRINITY_DN165091_c3_g1_i1.p1,EGF domain,EGF_3,8.50E-05
+TRINITY_DN165091_c3_g1_i1.p1,EGF domain,EGF_3,8.50E-05
+TRINITY_DN165091_c3_g1_i1.p1,Complement Clr-like EGF-like,cEGF,0.002
+TRINITY_DN165091_c3_g1_i1.p1,Complement Clr-like EGF-like,cEGF,0.002
+TRINITY_DN165091_c3_g1_i1.p1,Complement Clr-like EGF-like,cEGF,0.002
+TRINITY_DN165091_c3_g1_i1.p1,Complement Clr-like EGF-like,cEGF,0.002
+TRINITY_DN165091_c3_g1_i1.p1,Complement Clr-like EGF-like,cEGF,0.002
+TRINITY_DN165091_c3_g1_i1.p1,Complement Clr-like EGF-like,cEGF,0.002
+TRINITY_DN165091_c3_g1_i1.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.0034
+TRINITY_DN165091_c3_g1_i1.p1,Ephrin type-A receptor 2 transmembrane domain,EphA2_TM,0.0034
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Coagulation Factor Xa inhibitory site,FXa_inhibition,0.0086
+TRINITY_DN165091_c3_g1_i1.p1,Orf78 (ac78),Orf78,0.023
+TRINITY_DN165091_c3_g1_i1.p1,Aerotolerance regulator N-terminal,BatA,0.075
+TRINITY_DN165091_c3_g1_i1.p1,Domain of unknown function (DUF4381),DUF4381,0.092
+TRINITY_DN165091_c3_g1_i1.p1,Protein of unknown function (DUF2561),DUF2561,0.1
+TRINITY_DN165091_c3_g1_i1.p1,Rifin,RIFIN,0.11
+TRINITY_DN165091_c3_g1_i1.p1,Nucleoside transporter,Nucleoside_tran,0.15
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165091_c3_g1_i1.p1,EGF-like domain,EGF_2,0.26
+TRINITY_DN165067_c0_g1_i1.p1,Complement Clr-like EGF-like,cEGF,3
+TRINITY_DN165067_c0_g1_i1.p1,Complement Clr-like EGF-like,cEGF,3
+TRINITY_DN140642_c0_g1_i1.p1,von Willebrand factor type C domain,VWC,3.80E-06
+TRINITY_DN140642_c0_g1_i1.p1,von Willebrand factor type C domain,VWC,3.80E-06
+TRINITY_DN140642_c0_g1_i1.p1,von Willebrand factor type C domain,VWC,3.80E-06
+TRINITY_DN166715_c6_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.70E-15
+TRINITY_DN166715_c6_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.70E-15
+TRINITY_DN166715_c6_g4_i1.p1,Chitin binding Peritrophin-A domain,CBM_14,2.70E-15
+TRINITY_DN166715_c6_g4_i1.p1,Phasin protein,Phasin_2,0.027
+TRINITY_DN166715_c6_g4_i1.p1,Utp14 protein,Utp14,5.7
+TRINITY_DN166715_c6_g4_i1.p5,Dyggve-Melchior-Clausen syndrome protein,Dymeclin,0.16
+TRINITY_DN166715_c6_g4_i1.p5,Selenoprotein SelK_SelG,SelK_SelG,9.9
+TRINITY_DN166783_c1_g1_i3.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.013
+TRINITY_DN166783_c1_g1_i3.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.013
+TRINITY_DN164058_c0_g4_i1.p1,Ependymin,Ependymin,2.50E-14
+TRINITY_DN164058_c0_g4_i1.p1,Ependymin,Ependymin,2.50E-14
+TRINITY_DN164009_c2_g3_i1.p1,C8 domain,C8,0.13
+TRINITY_DN164009_c2_g3_i1.p1,C8 domain,C8,0.13
+TRINITY_DN164009_c2_g3_i1.p1,Pleurocidin family,Antimicrobial12,0.19
+TRINITY_DN159470_c1_g1_i3.p1,Kunitz/Bovine pancreatic trypsin inhibitor domain,Kunitz_BPTI,8.90E-76
+TRINITY_DN159470_c1_g1_i3.p1,Kunitz/Bovine pancreatic trypsin inhibitor domain,Kunitz_BPTI,8.90E-76
+TRINITY_DN159470_c1_g1_i3.p1,Kunitz/Bovine pancreatic trypsin inhibitor domain,Kunitz_BPTI,8.90E-76
+TRINITY_DN159470_c1_g1_i3.p1,Kunitz/Bovine pancreatic trypsin inhibitor domain,Kunitz_BPTI,8.90E-76
+TRINITY_DN159470_c1_g1_i3.p1,WW domain,WW,0.73
+TRINITY_DN159470_c1_g1_i3.p1,WW domain,WW,0.73
+TRINITY_DN159470_c1_g1_i3.p1,WW domain,WW,0.73
+TRINITY_DN159470_c1_g1_i3.p1,WW domain,WW,0.73
+TRINITY_DN159470_c1_g1_i3.p1,zinc RING finger of MSL2,zf-RING_10,3.2
+TRINITY_DN159470_c1_g1_i3.p1,zinc RING finger of MSL2,zf-RING_10,3.2
+TRINITY_DN159470_c1_g1_i3.p1,zinc RING finger of MSL2,zf-RING_10,3.2
+TRINITY_DN159470_c1_g1_i3.p1,zinc RING finger of MSL2,zf-RING_10,3.2
+TRINITY_DN143193_c0_g1_i1.p1,EF-hand domain pair,EF-hand_7,2.70E-05
+TRINITY_DN143193_c0_g1_i1.p1,EF-hand domain pair,EF-hand_7,2.70E-05
+TRINITY_DN143193_c0_g1_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,0.00062
+TRINITY_DN143193_c0_g1_i1.p1,EF-hand domain,EF-hand_6,0.002
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_1,3.20E-26
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_1,3.20E-26
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_1,3.20E-26
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_1,3.20E-26
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain pair,EF-hand_7,7.10E-26
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain pair,EF-hand_7,7.10E-26
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain,EF-hand_6,4.10E-20
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain,EF-hand_6,4.10E-20
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain,EF-hand_6,4.10E-20
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain,EF-hand_6,4.10E-20
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain pair,EF-hand_8,3.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_5,6.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_5,6.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_5,6.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_5,6.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_5,6.50E-19
+TRINITY_DN157818_c2_g2_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,4.00E-09
+TRINITY_DN157818_c2_g2_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,4.00E-09
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_10,9.30E-05
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_10,9.30E-05
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_10,9.30E-05
+TRINITY_DN157818_c2_g2_i1.p1,EF hand,EF-hand_10,9.30E-05
+TRINITY_DN157818_c2_g2_i1.p1,S-100/ICaBP type calcium binding domain,S_100,0.0063
+TRINITY_DN157818_c2_g2_i1.p1,S-100/ICaBP type calcium binding domain,S_100,0.0063
+TRINITY_DN157818_c2_g2_i1.p1,YebG protein,YebG,0.03
+TRINITY_DN157818_c2_g2_i1.p1,YebG protein,YebG,0.03
+TRINITY_DN157818_c2_g2_i1.p1,YebG protein,YebG,0.03
+TRINITY_DN157818_c2_g2_i1.p1,Pseudomurein-binding repeat,PMBR,0.067
+TRINITY_DN157818_c2_g2_i1.p1,Pseudomurein-binding repeat,PMBR,0.067
+TRINITY_DN157818_c2_g2_i1.p1,Pseudomurein-binding repeat,PMBR,0.067
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain,EF-hand_11,0.078
+TRINITY_DN157818_c2_g2_i1.p1,EF-hand domain,EF-hand_11,0.078
+TRINITY_DN157818_c2_g2_i1.p1,gag-polypeptide of LTR copia-type,Retrotran_gag_2,0.14
+TRINITY_DN154588_c1_g3_i2.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,0.091
+TRINITY_DN154588_c1_g3_i2.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,0.091
+TRINITY_DN154588_c1_g3_i2.p1,Repulsive guidance molecule (RGM) N-terminus,RGM_N,0.091
+TRINITY_DN154534_c0_g1_i1.p1,Lipocalin / cytosolic fatty-acid binding protein family,Lipocalin_7,5.80E-08
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_1,4.70E-43
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_1,4.70E-43
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_1,4.70E-43
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_1,4.70E-43
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain pair,EF-hand_7,4.10E-36
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain pair,EF-hand_7,4.10E-36
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain pair,EF-hand_8,9.50E-34
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain pair,EF-hand_8,9.50E-34
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain pair,EF-hand_8,9.50E-34
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain pair,EF-hand_8,9.50E-34
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_6,1.10E-30
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_6,1.10E-30
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_6,1.10E-30
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_6,1.10E-30
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_5,2.40E-28
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_5,2.40E-28
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_5,2.40E-28
+TRINITY_DN165418_c2_g7_i1.p1,EF hand,EF-hand_5,2.40E-28
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_9,7.40E-16
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_9,7.40E-16
+TRINITY_DN165418_c2_g7_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,1.70E-10
+TRINITY_DN165418_c2_g7_i1.p1,Cytoskeletal-regulatory complex EF hand,EF-hand_4,1.70E-10
+TRINITY_DN165418_c2_g7_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,6.10E-08
+TRINITY_DN165418_c2_g7_i1.p1,Secreted protein acidic and rich in cysteine Ca binding region,SPARC_Ca_bdg,6.10E-08
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_11,1.20E-06
+TRINITY_DN165418_c2_g7_i1.p1,EF-hand domain,EF-hand_11,1.20E-06
+TRINITY_DN165418_c2_g7_i1.p1,Uncharacterised protein family (UPF0154),UPF0154,1.30E-05
+TRINITY_DN165418_c2_g7_i1.p1,Uncharacterised protein family (UPF0154),UPF0154,1.30E-05
+TRINITY_DN165418_c2_g7_i1.p1,Uncharacterised protein family (UPF0154),UPF0154,1.30E-05
+TRINITY_DN165418_c2_g7_i1.p1,Ca2+ insensitive EF hand,EFhand_Ca_insen,6.80E-05
+TRINITY_DN165418_c2_g7_i1.p1,Ca2+ insensitive EF hand,EFhand_Ca_insen,6.80E-05
+TRINITY_DN165418_c2_g7_i1.p1,Repeat of unknown function (DUF1103),DUF1103,0.00046
+TRINITY_DN165418_c2_g7_i1.p1,Protein of unknown function (DUF3349),DUF3349,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,Protein of unknown function (DUF3349),DUF3349,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,Protein of unknown function (DUF3349),DUF3349,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,Caleosin related protein,Caleosin,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,Caleosin related protein,Caleosin,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,Caleosin related protein,Caleosin,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,Caleosin related protein,Caleosin,0.0013
+TRINITY_DN165418_c2_g7_i1.p1,RNA polymerase Rpb4,RNA_pol_Rpb4,0.0026
+TRINITY_DN165418_c2_g7_i1.p1,RNA polymerase Rpb4,RNA_pol_Rpb4,0.0026
+TRINITY_DN165418_c2_g7_i1.p1,Protein of unknown function (DUF4497),DUF4497,0.0026
+TRINITY_DN165418_c2_g7_i1.p1,Protein of unknown function (DUF4497),DUF4497,0.0026
+TRINITY_DN165418_c2_g7_i1.p1,Tellurite resistance protein TerB,TerB,0.0037
+TRINITY_DN165418_c2_g7_i1.p1,Tellurite resistance protein TerB,TerB,0.0037
+TRINITY_DN165418_c2_g7_i1.p1,"Voltage-dependent L-type calcium channel, IQ-associated",GPHH,0.0051
+TRINITY_DN165418_c2_g7_i1.p1,"Voltage-dependent L-type calcium channel, IQ-associated",GPHH,0.0051
+TRINITY_DN165418_c2_g7_i1.p1,"Voltage-dependent L-type calcium channel, IQ-associated",GPHH,0.0051
+TRINITY_DN165418_c2_g7_i1.p1,"Voltage-dependent L-type calcium channel, IQ-associated",GPHH,0.0051
+TRINITY_DN165418_c2_g7_i1.p1,Polysaccharide biosynthesis/export protein,Poly_export,0.012
+TRINITY_DN165418_c2_g7_i1.p1,Polysaccharide biosynthesis/export protein,Poly_export,0.012
+TRINITY_DN165418_c2_g7_i1.p1,Polysaccharide biosynthesis/export protein,Poly_export,0.012
+TRINITY_DN165418_c2_g7_i1.p1,SurA N-terminal domain,SurA_N_2,0.014
+TRINITY_DN165418_c2_g7_i1.p1,SurA N-terminal domain,SurA_N_2,0.014
+TRINITY_DN165418_c2_g7_i1.p1,"Transcription factor MotA, activation domain",MotA_activ,0.02
+TRINITY_DN165418_c2_g7_i1.p1,"Transcription factor MotA, activation domain",MotA_activ,0.02
+TRINITY_DN165418_c2_g7_i1.p1,Cache domain,dCache_2,0.024
+TRINITY_DN165418_c2_g7_i1.p1,Cache domain,dCache_2,0.024
+TRINITY_DN165418_c2_g7_i1.p1,Uncharacterized conserved protein (DUF2267),DUF2267,0.033
+TRINITY_DN165418_c2_g7_i1.p1,"Iron only hydrogenase large subunit, C-terminal domain",Fe_hyd_lg_C,0.042
+TRINITY_DN165418_c2_g7_i1.p1,Stage III sporulation protein AB (spore_III_AB),Spore_III_AB,0.089
+TRINITY_DN165418_c2_g7_i1.p1,"RuvA, C-terminal domain",RuvA_C,0.13
+TRINITY_DN165418_c2_g7_i1.p1,"RuvA, C-terminal domain",RuvA_C,0.13
+TRINITY_DN165418_c2_g7_i1.p1,"RuvA, C-terminal domain",RuvA_C,0.13
+TRINITY_DN165418_c2_g7_i1.p1,"Saposin-like type B, region 1",SapB_1,0.25
+TRINITY_DN165418_c2_g7_i1.p1,"Saposin-like type B, region 1",SapB_1,0.25
+TRINITY_DN165418_c2_g7_i1.p1,"Saposin-like type B, region 1",SapB_1,0.25
+TRINITY_DN165418_c2_g7_i1.p1,"Saposin-like type B, region 1",SapB_1,0.25
+TRINITY_DN165418_c2_g7_i1.p1,Carboxymuconolactone decarboxylase family,CMD,0.32
+TRINITY_DN165418_c2_g7_i1.p1,Carboxymuconolactone decarboxylase family,CMD,0.32
+TRINITY_DN165418_c2_g7_i1.p1,Carboxymuconolactone decarboxylase family,CMD,0.32
+TRINITY_DN165418_c2_g7_i1.p2,Immunoglobulin C1-set domain,C1-set,0.15
+TRINITY_DN152377_c0_g1_i4.p1,Galactose binding lectin domain,Gal_Lectin,1.60E-18
+TRINITY_DN165650_c3_g7_i1.p1,Galactose binding lectin domain,Gal_Lectin,0.02
+TRINITY_DN165650_c3_g7_i1.p1,Galactose binding lectin domain,Gal_Lectin,0.02
